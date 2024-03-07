@@ -1,0 +1,400 @@
+{"id": "f863bf64-ae54-4c76-9e1e-8deb3f0939e0", "query": "在表格-167568中，当“圆形的”这一列的值为“5”时，“大学”这一列的值是多少？", "answer": "Florida", "response_gpt4-turbo-128k": "Florida"}
+{"id": "9cf0a6e5-ee18-4843-acab-84a881080e7a", "query": "在表格-106731中，当“系列”这一列的值为“1”时，“剧集（电视+额外）2”这一列的值是多少？", "answer": "24+2", "response_gpt4-turbo-128k": "24+2"}
+{"id": "c8a4087a-16c0-4260-9718-039f1c0d08d8", "query": "在表格-190505中，当“日期”这一列的值为“2004 年 2 月 28 日”时，“分数”这一列的值是多少？", "answer": "2–6, 2–6", "response_gpt4-turbo-128k": "2–6, 2–6"}
+{"id": "46eb07f7-4157-4796-a6a1-03d50a4d4106", "query": "在表格-134650中，当“姓名”这一列的值为“Saleha Benhamouda 类别：hCard 文章”时，“长钉”这一列的值是多少？", "answer": "cm (in)", "response_gpt4-turbo-128k": "74"}
+{"id": "d420b48d-ce93-4d70-ab04-32e648a6302f", "query": "在表格-175166中，当“主队”这一列的值为“菲茨罗伊”时，“日期”这一列的值是多少？", "answer": "27 August 1932", "response_gpt4-turbo-128k": "27 August 1932"}
+{"id": "5faadfe0-45a9-43c2-846a-d04c8f13ee5a", "query": "在表格-131363中，当“主队”这一列的值为“吉朗”时，“客队”这一列的值是多少？", "answer": "North Melbourne", "response_gpt4-turbo-128k": "North Melbourne"}
+{"id": "df8fb8b0-3c72-4b02-828d-3de595918ec4", "query": "在表格-118018中，当“呼号”这一列的值为“W273BD”时，“频率兆赫”这一列的值是多少？", "answer": "102.5", "response_gpt4-turbo-128k": "102.5"}
+{"id": "0c2f371f-99f9-41b5-a4ae-1ab7fe60ac82", "query": "在表格-137649中，当“”这一列的值为“C2”时，“评价平均值（2011年2月起）”这一列的值是多少？", "answer": "4.5", "response_gpt4-turbo-128k": "4.5"}
+{"id": "4635ab57-d5d1-45fe-9c0c-42cbeeac5409", "query": "在表格-137941中，当“司机”这一列的值为“格哈德·伯杰”时，“构造函数”这一列的值是多少？", "answer": "Benetton - Renault", "response_gpt4-turbo-128k": "Benetton - Renault"}
+{"id": "c4c479cd-dd75-48a4-b0d3-ad5bcf265940", "query": "在表格-166088中，当“名人”这一列的值为“马兰德拉·布罗斯”时，“完成的”这一列的值是多少？", "answer": "7th", "response_gpt4-turbo-128k": "8th"}
+{"id": "580479dd-1bf7-4eed-a6cb-ac62feac654d", "query": "在表格-197249中，当“运动员”这一列的值为“后尚·卡尔加内贾德”时，“金子”这一列的值是多少？", "answer": "3", "response_gpt4-turbo-128k": "3"}
+{"id": "23444db4-8cc7-4cc3-927f-e71bb7b797f2", "query": "在表格-115495中，当“数字”这一列的值为“1”时，“长度”这一列的值是多少？", "answer": "4:26", "response_gpt4-turbo-128k": "4:26"}
+{"id": "ea6a42ef-3394-492b-9da9-2b0426d8c7fd", "query": "在表格-120078中，当“导弹”这一列的值为“烈火-III”时，“弹头”这一列的值是多少？", "answer": "Nuclear, HE, penetration, sub-munitions, FAE", "response_gpt4-turbo-128k": "Nuclear, HE, penetration, sub-munitions, FAE"}
+{"id": "b95c3874-c440-4db6-8b0e-321bf65aaebe", "query": "在表格-171781中，当“圆形的”这一列的值为“1”时，“位置”这一列的值是多少？", "answer": "Wide receiver", "response_gpt4-turbo-128k": "Wide receiver"}
+{"id": "3e1801e7-a2a0-4bee-b142-2e20ed59c7d2", "query": "在表格-154450中，当“位置”这一列的值为“3”时，“积分”这一列的值是多少？", "answer": "1276", "response_gpt4-turbo-128k": "1276"}
+{"id": "06709ad2-0095-4efa-9627-2673b939ea00", "query": "在表格-155097中，当“俱乐部”这一列的值为“克雷塔罗”时，“顶级联赛的第一个赛季”这一列的值是多少？", "answer": "1990-91", "response_gpt4-turbo-128k": "1990-91"}
+{"id": "13ab4cda-7f4a-4a52-a0fb-870fc1b40a5f", "query": "在表格-116691中，当“位置”这一列的值为“6”时，“进球数”这一列的值是多少？", "answer": "32", "response_gpt4-turbo-128k": "32"}
+{"id": "4f632d42-f72f-4cc4-bcbe-efdbbcca2b89", "query": "在表格-113224中，当“游戏”这一列的值为“75”时，“分数”这一列的值是多少？", "answer": "90–113", "response_gpt4-turbo-128k": "L 17-20 OT"}
+{"id": "5416d382-703d-4c1b-a24c-d9ff21cb25d2", "query": "在表格-128972中，当“资源。”这一列的值为“画”时，“记录”这一列的值是多少？", "answer": "5-0-1", "response_gpt4-turbo-128k": "5-0-1"}
+{"id": "6466ed5c-8058-421a-be73-fa959948af9d", "query": "在表格-164962中，当“民族”这一列的值为“其他的”时，“2001年(%)”这一列的值是多少？", "answer": "1.3", "response_gpt4-turbo-128k": "1.3"}
+{"id": "98ab6afd-12a9-43a5-869d-07305d937ce9", "query": "在表格-143288中，当“机构”这一列的值为“马里兰大学”时，“会议锦标赛”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "0"}
+{"id": "4a9e4dd8-bcd3-4d7b-98b6-059449c582b9", "query": "在表格-135187中，当“星期”这一列的值为“2”时，“出席率”这一列的值是多少？", "answer": "44,950", "response_gpt4-turbo-128k": "44,950"}
+{"id": "d441f42d-2d05-4d98-8100-48138bd1ab86", "query": "在表格-161112中，当“星期”这一列的值为“14”时，“日期”这一列的值是多少？", "answer": "December 6, 1992", "response_gpt4-turbo-128k": "December 6, 1992"}
+{"id": "004a64eb-30f0-4206-98dc-cb327954f608", "query": "在表格-172523中，当“主队”这一列的值为“富茨克雷”时，“场地”这一列的值是多少？", "answer": "Western Oval", "response_gpt4-turbo-128k": "Western Oval"}
+{"id": "ca108337-0282-46e1-b693-b74c1df25405", "query": "在表格-172173中，当“星期”这一列的值为“4.5”时，“优胜者俱乐部”这一列的值是多少？", "answer": "5 extra points and a Chariot Ride", "response_gpt4-turbo-128k": "5 extra points and a Chariot Ride"}
+{"id": "d4d58daf-78ab-4cf2-8c89-f4fae72e7c91", "query": "在表格-164004中，当“日期”这一列的值为“2005 年 11 月 8 日”时，“决赛的对手”这一列的值是多少？", "answer": "Sergei Bubka", "response_gpt4-turbo-128k": "Sergei Bubka"}
+{"id": "15030446-9e9c-46c6-83cc-dbc890b24e0b", "query": "在表格-148916中，当“姓名”这一列的值为“凯蒂·泽内维奇”时，“数字”这一列的值是多少？", "answer": "45", "response_gpt4-turbo-128k": "45"}
+{"id": "243590f2-c76d-4a7f-8dcf-7be6dd12702f", "query": "在表格-169391中，当“路。”这一列的值为“路 1”时，“日期”这一列的值是多少？", "answer": "19–22 March", "response_gpt4-turbo-128k": "19–22 March"}
+{"id": "4b360653-f559-4a5f-875b-98a9ebd8331a", "query": "在表格-192123中，当“秩”这一列的值为“7”时，“隔离”这一列的值是多少？", "answer": "00009.44 = 5.9miles 9.5km", "response_gpt4-turbo-128k": "9.5km"}
+{"id": "9ff7fae0-f9df-4f2d-ab0b-8a4a627227c0", "query": "在表格-109744中，当“圆形的”这一列的值为“3”时，“最快圈速”这一列的值是多少？", "answer": "Gerhard Berger", "response_gpt4-turbo-128k": "Gerhard Berger"}
+{"id": "9f3437ac-3e85-4114-bd62-cbdb7f29e108", "query": "在表格-118899中，当“星期”这一列的值为“4”时，“结果”这一列的值是多少？", "answer": "W 28-0", "response_gpt4-turbo-128k": "W 45-21"}
+{"id": "9b9a8be7-37d0-4a80-89ed-b9fb1abb6821", "query": "在表格-109963中，当“选举”这一列的值为“1854年补选”时，“第二名会员”这一列的值是多少？", "answer": "Henry Wyndham", "response_gpt4-turbo-128k": "Henry Wyndham"}
+{"id": "42799a8b-d2d2-430c-9897-e3e5174d47da", "query": "在表格-149807中，当“日期”这一列的值为“1990 年 6 月 10 日”时，“竞赛”这一列的值是多少？", "answer": "1990 World Cup", "response_gpt4-turbo-128k": "1990 World Cup"}
+{"id": "976fe221-bcad-480e-bdf5-c1d4d20942bb", "query": "在表格-172642中，当“圆形的”这一列的值为“2”时，“位置”这一列的值是多少？", "answer": "Linebacker", "response_gpt4-turbo-128k": "30th"}
+{"id": "fd35e292-2cad-4727-b46f-394d3dfd575a", "query": "在表格-156973中，当“玩家”这一列的值为“OJ 梅奥 ‡”时，“高度”这一列的值是多少？", "answer": "6-5", "response_gpt4-turbo-128k": "6-5"}
+{"id": "80725b27-13df-482a-9611-ff9a96afd75f", "query": "在表格-196983中，当“年”这一列的值为“2005年”时，“印度人承认”这一列的值是多少？", "answer": "22,141", "response_gpt4-turbo-128k": "1,896"}
+{"id": "9bd63260-1fcc-42db-bf77-faeaf47f84ed", "query": "在表格-188208中，当“船”这一列的值为“波特维斯级”时，“建设者”这一列的值是多少？", "answer": "Potvis-class", "response_gpt4-turbo-128k": "Potvis-class"}
+{"id": "5be14d8c-23cc-4bd0-b256-26593098d43e", "query": "在表格-118242中，当“年”这一列的值为“1999年”时，“色彩评论员”这一列的值是多少？", "answer": "John Davidson", "response_gpt4-turbo-128k": "John Davidson"}
+{"id": "b37cb2b7-ede5-4bf5-94ff-20ed0a8be178", "query": "在表格-184803中，当“主队”这一列的值为“袋鼠”时，“主队比分”这一列的值是多少？", "answer": "16.8 (104)", "response_gpt4-turbo-128k": "16.8 (104)"}
+{"id": "bdcdbc6f-faba-4cba-9a7a-85e315e56376", "query": "在表格-103219中，当“作品”这一列的值为“1975 年百老汇复兴”时，“赫比”这一列的值是多少？", "answer": "Rex Robbins", "response_gpt4-turbo-128k": "Barrie Ingham"}
+{"id": "55229631-5ab6-45a1-9107-efb7665044dd", "query": "在表格-167632中，当“游戏”这一列的值为“81”时，“记录”这一列的值是多少？", "answer": "42-39", "response_gpt4-turbo-128k": "42-39"}
+{"id": "d3afa1cf-13ed-4669-9af8-b4829c7fb347", "query": "在表格-103826中，当“姓名”这一列的值为“NAS 快递”时，“初始点”这一列的值是多少？", "answer": "Pensacola International Airport", "response_gpt4-turbo-128k": "Pensacola International Airport"}
+{"id": "6404db03-db26-4280-84f6-0fd78442df97", "query": "在表格-169168中，当“不。”这一列的值为“29”时，“#”这一列的值是多少？", "answer": 16, "response_gpt4-turbo-128k": "16"}
+{"id": "a01bfa16-a2c9-41bb-8540-b17a8781632b", "query": "在表格-118528中，当“团队”这一列的值为“斯塔尔热舒夫”时，“积分”这一列的值是多少？", "answer": "12", "response_gpt4-turbo-128k": "12"}
+{"id": "e587e4fd-cfd7-4788-9b02-08c00ede781c", "query": "在表格-125575中，当“骑士”这一列的值为“埃尔万·尼贡”时，“圈数”这一列的值是多少？", "answer": "26", "response_gpt4-turbo-128k": "18"}
+{"id": "a916a0c4-9de2-40e6-b2e4-4f13b75762ca", "query": "在表格-174140中，当“面值”这一列的值为“两个内派斯”时，“重量”这一列的值是多少？", "answer": "3 g", "response_gpt4-turbo-128k": "3 g"}
+{"id": "9acfa895-d6e8-453f-af33-6d8545e10353", "query": "在表格-132444中，当“产品”这一列的值为“冷聚变”时，“Java EE 兼容性”这一列的值是多少？", "answer": "5", "response_gpt4-turbo-128k": "5"}
+{"id": "5f3a14d5-4c6d-4f1e-97e4-b2214df22ae4", "query": "在表格-121755中，当“官方名字”这一列的值为“查塔姆”时，“面积 平方公里 2”这一列的值是多少？", "answer": "22.26", "response_gpt4-turbo-128k": "22.26"}
+{"id": "62532870-092e-4a6c-96f9-fba892f7a316", "query": "在表格-151472中，当“鳃”这一列的值为“C”时，“直径（英里）”这一列的值是多少？", "answer": "19mi", "response_gpt4-turbo-128k": "19mi"}
+{"id": "e6654e6f-be8a-4500-b8bc-9ffe0d188d02", "query": "在表格-127767中，当“季节号”这一列的值为“11”时，“原始播出日期”这一列的值是多少？", "answer": "October2,1998 (Showtime)", "response_gpt4-turbo-128k": "October2,1998"}
+{"id": "1d8998b7-b075-42c1-9044-c5f88e339450", "query": "在表格-175750中，当“墨盒”这一列的值为“.38超级”时，“枪口能量”这一列的值是多少？", "answer": "468ft•lbf (634 J)", "response_gpt4-turbo-128k": "468ft•lbf (634 J)"}
+{"id": "3c3c054d-9603-427d-961e-9c89ae91209a", "query": "在表格-185798中，当“玩家”这一列的值为“艾莉森速度”时，“罚球”这一列的值是多少？", "answer": 5, "response_gpt4-turbo-128k": "0"}
+{"id": "c9e6c0b0-083c-4b99-8424-5750fe1b0334", "query": "在表格-185915中，当“韩文”这一列的值为“ㅂ”时，“藏”这一列的值是多少？", "answer": "བ", "response_gpt4-turbo-128k": "བ"}
+{"id": "617e356e-0dde-4422-b9c3-169b9f412d3b", "query": "在表格-150164中，当“年”这一列的值为“2007年”时，“角色”这一列的值是多少？", "answer": "Romulus", "response_gpt4-turbo-128k": "Romulus"}
+{"id": "6ae7e18e-e7be-4048-9ad0-5217fa7f3931", "query": "在表格-146076中，当“游戏”这一列的值为“45”时，“记录”这一列的值是多少？", "answer": "26-10-9", "response_gpt4-turbo-128k": "26-10-9"}
+{"id": "859291c3-2ea5-4e20-93b9-16f6102261d2", "query": "在表格-151347中，当“县”这一列的值为“向下”时，“类型”这一列的值是多少？", "answer": "Aqueduct", "response_gpt4-turbo-128k": "Aqueduct"}
+{"id": "752d0e87-4232-45f1-9e26-0b1b425c0b47", "query": "在表格-169243中，当“骑士”这一列的值为“克里斯蒂安·杰梅尔”时，“时间/退休”这一列的值是多少？", "answer": "Accident", "response_gpt4-turbo-128k": "Retirement"}
+{"id": "0c6a0ae5-3dcf-4511-91f5-8f2fe736dc8e", "query": "在表格-154451中，当“日期”这一列的值为“2004-11-04”时，“对手”这一列的值是多少？", "answer": "Cătălin Zmărăndescu", "response_gpt4-turbo-128k": "Cătălin Zmărăndescu"}
+{"id": "728e525a-ee2a-446b-9c56-49739d6184aa", "query": "在表格-120365中，当“区”这一列的值为“17日”时，“现任”这一列的值是多少？", "answer": "Edd Houck", "response_gpt4-turbo-128k": "Detroit Red Wings"}
+{"id": "ababf340-14df-45d4-be41-78fdaf7ebcf1", "query": "在表格-157342中，当“资源。”这一列的值为“画”时，“事件”这一列的值是多少？", "answer": "UFC 22", "response_gpt4-turbo-128k": "UFC 22"}
+{"id": "2b37a3d5-cc4b-40c0-aa14-7fe7c63002c7", "query": "在表格-168662中，当“秩”这一列的值为“34”时，“时间”这一列的值是多少？", "answer": "4:29.02", "response_gpt4-turbo-128k": "4:28.56"}
+{"id": "3ef5f1b1-db54-4254-9ce9-41dc5bfa30fa", "query": "在表格-121873中，当“年”这一列的值为“2008年”时，“完成位置”这一列的值是多少？", "answer": "57th", "response_gpt4-turbo-128k": "57th"}
+{"id": "3aff9487-d449-468a-9b65-ed5da2a7fb38", "query": "在表格-150197中，当“日期”这一列的值为“6月2日”时，“出席率”这一列的值是多少？", "answer": "10,712", "response_gpt4-turbo-128k": "14,350"}
+{"id": "cd371936-ce38-4795-b534-d3a2c210cb40", "query": "在表格-126302中，当“日期”这一列的值为“1月11日”时，“分数”这一列的值是多少？", "answer": "5 – 2", "response_gpt4-turbo-128k": "5 – 2"}
+{"id": "799c4afc-cdce-4787-ad45-a6ba6070b135", "query": "在表格-153744中，当“骑士”这一列的值为“玉田诚”时，“制造商”这一列的值是多少？", "answer": "Honda", "response_gpt4-turbo-128k": "Yamaha"}
+{"id": "7892c88e-4d7f-4307-8ef1-868ada81c9e9", "query": "在表格-105754中，当“游戏”这一列的值为“2”时，“团队”这一列的值是多少？", "answer": "Boston", "response_gpt4-turbo-128k": "Boston"}
+{"id": "d73ca4cd-d75c-4b3f-9cb8-94cadc3879e2", "query": "在表格-174425中，当“日期”这一列的值为“1950年10月21日”时，“对手＃”这一列的值是多少？", "answer": "9 Ohio State", "response_gpt4-turbo-128k": "9 Ohio State"}
+{"id": "49f17b1f-2a94-4988-af9e-9affcece5cd2", "query": "在表格-160731中，当“年”这一列的值为“1986年”时，“参赛者”这一列的值是多少？", "answer": "Motor Racing Developments", "response_gpt4-turbo-128k": "Ádám Steinmetz"}
+{"id": "3a227943-4582-44d1-a3fa-ed94e4947dcf", "query": "在表格-153004中，当“星期”这一列的值为“11”时，“日期”这一列的值是多少？", "answer": "November 26, 1967", "response_gpt4-turbo-128k": "December 3, 1967"}
+{"id": "b2823dd6-896c-4e84-96c4-26729e87ffa8", "query": "在表格-118322中，当“日期”这一列的值为“8 月 16 日至 18 日”时，“周末总收入”这一列的值是多少？", "answer": "$4,093,079", "response_gpt4-turbo-128k": "$4,093,079"}
+{"id": "b45cabcc-3489-42a1-bbf2-2de8c33dafe7", "query": "在表格-194952中，当“星期”这一列的值为“P2”时，“记录”这一列的值是多少？", "answer": "9-3", "response_gpt4-turbo-128k": "3–30–3"}
+{"id": "b3b5f974-9554-467c-ae75-ea6511b2dcaa", "query": "在表格-107992中，当“游戏”这一列的值为“24”时，“高助攻”这一列的值是多少？", "answer": "Alvin Robertson , Damon Stoudamire (7)", "response_gpt4-turbo-128k": "Manu Ginobili (7)"}
+{"id": "d73ee437-ab57-4a5d-9412-c8c75db02933", "query": "在表格-107679中，当“季节”这一列的值为“9”时，“本季大结局”这一列的值是多少？", "answer": "January 13, 2012", "response_gpt4-turbo-128k": "January 13, 2012"}
+{"id": "112b19a7-97f0-47c4-bd5e-87130a730106", "query": "在表格-191823中，当“日期”这一列的值为“2003 年 9 月 4 日”时，“分数”这一列的值是多少？", "answer": "1 – 0", "response_gpt4-turbo-128k": "1 – 0"}
+{"id": "4379a0f7-6998-468c-8951-dc14061d8834", "query": "在表格-140508中，当“游戏”这一列的值为“80”时，“分数”这一列的值是多少？", "answer": "0–1", "response_gpt4-turbo-128k": "5–6 (SO)"}
+{"id": "fc4e119e-db26-49c2-b613-0cceb9279435", "query": "在表格-119360中，当“游戏”这一列的值为“5”时，“结果”这一列的值是多少？", "answer": "Win", "response_gpt4-turbo-128k": "Win"}
+{"id": "bacb93b4-9b5c-4813-8a4e-28efe7cceb73", "query": "在表格-197039中，当“！王牌”这一列的值为“3.”时，“圆形的”这一列的值是多少？", "answer": "Radek Štěpánek", "response_gpt4-turbo-128k": "1R"}
+{"id": "2d795b46-8268-49f4-8218-7f5759c140d2", "query": "在表格-144007中，当“圆形的”这一列的值为“1”时，“大学”这一列的值是多少？", "answer": "Connecticut", "response_gpt4-turbo-128k": "Connecticut"}
+{"id": "7997df23-1bd1-46d2-8fc6-24ffb3b9c047", "query": "在表格-100167中，当“秩”这一列的值为“5”时，“活动”这一列的值是多少？", "answer": "23", "response_gpt4-turbo-128k": "2005 –"}
+{"id": "72256bf9-8c2d-46b9-9753-7767c11c68e9", "query": "在表格-144801中，当“姓名”这一列的值为“信使”时，“建成年份”这一列的值是多少？", "answer": "1872", "response_gpt4-turbo-128k": "1872"}
+{"id": "815f0aec-5e43-4f03-b566-3289284fcd98", "query": "在表格-107019中，当“主题”这一列的值为“1”时，“荣誉”这一列的值是多少？", "answer": "1", "response_gpt4-turbo-128k": "Grand Slam tournaments"}
+{"id": "e9a65cbd-2451-4ca2-b7d0-f199ead7f2da", "query": "在表格-138607中，当“位置”这一列的值为“FB”时，“高度”这一列的值是多少？", "answer": "5'11\"", "response_gpt4-turbo-128k": "5'11\""}
+{"id": "65f5f32e-33e3-4ff0-993e-bd9f38243e06", "query": "在表格-171319中，当“位置”这一列的值为“4”时，“积分”这一列的值是多少？", "answer": "35", "response_gpt4-turbo-128k": "34"}
+{"id": "2440f4c5-8bde-461a-b0dd-cef36c967bba", "query": "在表格-162236中，当“年”这一列的值为“1964年”时，“日期”这一列的值是多少？", "answer": "19 April–3 May", "response_gpt4-turbo-128k": "5月22日"}
+{"id": "403b3b15-15af-4b7c-9692-5767854b5e62", "query": "在表格-157067中，当“团队”这一列的值为“CSA”时，“1999年洲际杯”这一列的值是多少？", "answer": "N/A", "response_gpt4-turbo-128k": "N/A"}
+{"id": "46d1a0d6-7a64-4d10-9647-926510d7138d", "query": "在表格-174264中，当“纳特。”这一列的值为“法国航空”时，“转会窗口”这一列的值是多少？", "answer": "n/a", "response_gpt4-turbo-128k": "Summer"}
+{"id": "fc161898-67f1-4cd9-9dd0-040f83bb8a3a", "query": "在表格-122570中，当“地方”这一列的值为“1”时，“达到标准杆”这一列的值是多少？", "answer": "−1", "response_gpt4-turbo-128k": "–1"}
+{"id": "57c37f7e-1c77-4938-9958-4c452311fb9a", "query": "在表格-144284中，当“团队”这一列的值为“戈梅利”时，“2001年职位”这一列的值是多少？", "answer": "6", "response_gpt4-turbo-128k": "6"}
+{"id": "39c92142-414f-4972-a440-d48a81ec4225", "query": "在表格-199809中，当“牧区”这一列的值为“北”时，“教区”这一列的值是多少？", "answer": "64", "response_gpt4-turbo-128k": "64"}
+{"id": "5d7d26c7-4a76-4449-9222-4870a67e9213", "query": "在表格-104005中，当“挑选 ＃”这一列的值为“30”时，“位置”这一列的值是多少？", "answer": "RB", "response_gpt4-turbo-128k": "RB"}
+{"id": "2f96bc80-cc50-46b7-b8ae-3190f2213037", "query": "在表格-101166中，当“互联网计划”这一列的值为“互联网10”时，“包含带宽”这一列的值是多少？", "answer": "Unlimited MB", "response_gpt4-turbo-128k": "Unlimited MB"}
+{"id": "59e96cd7-b702-4100-88f9-6686463d7190", "query": "在表格-184245中，当“季节”这一列的值为“2002年3月”时，“团队”这一列的值是多少？", "answer": "Persepolis", "response_gpt4-turbo-128k": "Miami Dolphins"}
+{"id": "f23fc13a-9574-49f7-8d5d-cdc0f8e8c9eb", "query": "在表格-179829中，当“主队”这一列的值为“卡尔顿”时，“日期”这一列的值是多少？", "answer": "27 July 1946", "response_gpt4-turbo-128k": "27 July 1946"}
+{"id": "fbf5c832-f883-4f09-989c-2f5870937745", "query": "在表格-174978中，当“阶段”这一列的值为“8”时，“优胜者”这一列的值是多少？", "answer": "Tony Martin", "response_gpt4-turbo-128k": "Tony Martin"}
+{"id": "eb58823b-bf34-4dd3-9c92-fa76e7a8cb18", "query": "在表格-173170中，当“挑选 ＃”这一列的值为“163”时，“玩家”这一列的值是多少？", "answer": "Max Hansen", "response_gpt4-turbo-128k": "Don McLeod"}
+{"id": "08f39978-e89c-49e4-a8a8-97a587cba3d0", "query": "在表格-115704中，当“日期”这一列的值为“1902年8月11、12、13日”时，“主场队长”这一列的值是多少？", "answer": "Archie MacLaren", "response_gpt4-turbo-128k": "Archie MacLaren"}
+{"id": "62285258-044b-44ce-bd85-bdc690503aaf", "query": "在表格-107603中，当“半闭声母非重读元音”这一列的值为“y /ɨ/”时，“十七世纪”这一列的值是多少？", "answer": "ɪ", "response_gpt4-turbo-128k": "ɪ"}
+{"id": "24ec30c9-7e8e-4022-9340-19ffcf442c1f", "query": "在表格-145134中，当“地方”这一列的值为“1”时，“分数”这一列的值是多少？", "answer": "70-74=144", "response_gpt4-turbo-128k": "70-74=144"}
+{"id": "228f89ce-8177-4fab-b377-707c95525ff2", "query": "在表格-196869中，当“日期”这一列的值为“10 月 18 日”时，“比赛”这一列的值是多少？", "answer": "Suntree Seniors Classic", "response_gpt4-turbo-128k": "PGA Seniors' Championship"}
+{"id": "6af9b740-2ba2-4d2e-82d4-4c9557d23c2b", "query": "在表格-148049中，当“#”这一列的值为“8”时，“导演”这一列的值是多少？", "answer": "Peter Manus", "response_gpt4-turbo-128k": "Billy O'Brien"}
+{"id": "841839b6-bd6f-42db-9b0a-f43e0d99cdb9", "query": "在表格-181631中，当“盖奇曼”这一列的值为“甚平”时，“行星之战”这一列的值是多少？", "answer": "Keyop", "response_gpt4-turbo-128k": "Tiny Harper"}
+{"id": "e94d83f5-7d74-4fb9-b268-62f2f38921da", "query": "在表格-137054中，当“秩”这一列的值为“1”时，“金子”这一列的值是多少？", "answer": "4", "response_gpt4-turbo-128k": "4"}
+{"id": "4b435b74-01c9-4840-92ac-d534d3fb8985", "query": "在表格-130737中，当“跳过（俱乐部）”这一列的值为“希瑟·斯特朗 (ReMax)”时，“胜利结束”这一列的值是多少？", "answer": 30, "response_gpt4-turbo-128k": "4"}
+{"id": "caea4199-5d5b-4753-82ba-d27f0e6992ac", "query": "在表格-148840中，当“司机”这一列的值为“奥里奥尔·塞尔维亚”时，“圈数”这一列的值是多少？", "answer": "107", "response_gpt4-turbo-128k": "21"}
+{"id": "fbd4298f-78c4-446a-8d49-ffc031c1b0ac", "query": "在表格-107686中，当“日期”这一列的值为“11 月 30 日”时，“场地”这一列的值是多少？", "answer": "H", "response_gpt4-turbo-128k": "Lambeau Field"}
+{"id": "03fcfd7e-3aa3-47fa-bad0-a51020db62be", "query": "在表格-144341中，当“地方”这一列的值为“5”时，“玩家”这一列的值是多少？", "answer": "Tom Watson", "response_gpt4-turbo-128k": "Tom Watson"}
+{"id": "ad3d8957-9030-4a19-ab45-50894c051d2a", "query": "在表格-172154中，当“纳特。”这一列的值为“智利”时，“类型”这一列的值是多少？", "answer": "End of contract", "response_gpt4-turbo-128k": "End of contract"}
+{"id": "1dec174a-d67a-4d48-9472-138e2f5c6eda", "query": "在表格-147624中，当“玩家”这一列的值为“大卫·格雷厄姆”时，“获胜年份”这一列的值是多少？", "answer": "1979", "response_gpt4-turbo-128k": "1979"}
+{"id": "5955b7be-d1ba-4714-8704-b53c5c38e131", "query": "在表格-178636中，当“星期”这一列的值为“7”时，“日期”这一列的值是多少？", "answer": "October 28, 1973", "response_gpt4-turbo-128k": "October 28, 1973"}
+{"id": "0a70b050-864d-47a7-a952-5251e6228c3c", "query": "在表格-180065中，当“日期”这一列的值为“1902 年 1 月 17,18,20,21,22,23”时，“场地”这一列的值是多少？", "answer": "Adelaide Oval", "response_gpt4-turbo-128k": "Adelaide Oval"}
+{"id": "0b398100-a3ed-4a16-b38b-fa3f3fd2f450", "query": "在表格-116827中，当“星期”这一列的值为“14”时，“日期”这一列的值是多少？", "answer": "December 9, 1962", "response_gpt4-turbo-128k": "December 9, 1962"}
+{"id": "264e2f95-1072-492d-8f45-bd11ead6e6e3", "query": "在表格-135860中，当“拥有分区冠军的球队”这一列的值为“匹兹堡钢人队”时，“亚足联冠军”这一列的值是多少？", "answer": 8, "response_gpt4-turbo-128k": "2"}
+{"id": "d8fe2a63-3559-46fd-a73d-ad53a83ec3ab", "query": "在表格-172559中，当“圆形的”这一列的值为“3”时，“第四名”这一列的值是多少？", "answer": "Magnus Zetterström", "response_gpt4-turbo-128k": "Nagmeldin Ali Abubakr"}
+{"id": "bca71d5d-48a4-4e11-ba86-6e0e759a627e", "query": "在表格-115126中，当“系列号”这一列的值为“340”时，“撰写者”这一列的值是多少？", "answer": "Faith McKinnon", "response_gpt4-turbo-128k": "Faith McKinnon"}
+{"id": "a666ad73-99e6-41df-8aa1-941f8a049d98", "query": "在表格-198573中，当“姓名”这一列的值为“美国202”时，“运载火箭”这一列的值是多少？", "answer": "Delta IV-H", "response_gpt4-turbo-128k": "Delta IV-H"}
+{"id": "50263a83-7b29-4f4c-8c81-cbcce5560f4b", "query": "在表格-172368中，当“主队”这一列的值为“北墨尔本”时，“客队比分”这一列的值是多少？", "answer": "9.16 (70)", "response_gpt4-turbo-128k": "9.16 (70)"}
+{"id": "83c6966d-73bb-4b64-b2a0-82fc31fef38d", "query": "在表格-125751中，当“年”这一列的值为“2006年”时，“竞赛”这一列的值是多少？", "answer": "World Race Walking Cup", "response_gpt4-turbo-128k": "Central American and Caribbean Games"}
+{"id": "bba5d19b-9de4-42cc-b940-88286ebf1f1f", "query": "在表格-121093中，当“获奖年份”这一列的值为“2009年”时，“运动员”这一列的值是多少？", "answer": "Michael Phelps", "response_gpt4-turbo-128k": "John Isner vs. Nicolas Mahut"}
+{"id": "f153300f-d8ed-422d-9389-246a08771166", "query": "在表格-124100中，当“星期”这一列的值为“4”时，“结果”这一列的值是多少？", "answer": "W 45–24", "response_gpt4-turbo-128k": "L 84–94 (OT)"}
+{"id": "6585efb3-3834-4dc0-84d7-b2966f5ac238", "query": "在表格-133631中，当“比赛”这一列的值为“公开锦标赛”时，“前10名”这一列的值是多少？", "answer": "2", "response_gpt4-turbo-128k": "2"}
+{"id": "f76975b4-06e8-40cb-a871-4d342a936532", "query": "在表格-112577中，当“年”这一列的值为“2012年”时，“位置”这一列的值是多少？", "answer": "1st", "response_gpt4-turbo-128k": "第二名"}
+{"id": "26ec80e7-394a-4600-9f28-4dd9da162dd8", "query": "在表格-143478中，当“结果”这一列的值为“第二名”时，“骑师”这一列的值是多少？", "answer": "C. Newitt", "response_gpt4-turbo-128k": "Terry Miles"}
+{"id": "82fbb74d-2c16-40d0-8fd6-e807f167e508", "query": "在表格-111338中，当“呼号”这一列的值为“W218AP”时，“执照所在城市”这一列的值是多少？", "answer": "Titusville, PA", "response_gpt4-turbo-128k": "Titusville, PA"}
+{"id": "4ae9f84f-c059-41bc-9aa8-cc4f29c54e57", "query": "在表格-172551中，当“游戏”这一列的值为“5”时，“团队”这一列的值是多少？", "answer": "@ Orlando", "response_gpt4-turbo-128k": "Orlando"}
+{"id": "276e1772-a093-460b-b675-f736bd36012f", "query": "在表格-174356中，当“区”这一列的值为“加州 23”时，“现任”这一列的值是多少？", "answer": "Del M. Clawson", "response_gpt4-turbo-128k": "Del M. Clawson"}
+{"id": "e7ea5146-76d3-4622-83be-581a9dba1a10", "query": "在表格-185914中，当“游戏”这一列的值为“5”时，“分数”这一列的值是多少？", "answer": "2–3 OT", "response_gpt4-turbo-128k": "2–1"}
+{"id": "8f4968c2-77c6-4898-846c-f2dc1f014e41", "query": "在表格-174128中，当“区”这一列的值为“乔治亚州 8”时，“首次当选”这一列的值是多少？", "answer": 1966, "response_gpt4-turbo-128k": "1966"}
+{"id": "6738a98e-cd94-4f5b-9315-2351fcf83d80", "query": "在表格-162908中，当“秩”这一列的值为“1”时，“总部”这一列的值是多少？", "answer": "USA", "response_gpt4-turbo-128k": "美国"}
+{"id": "8e9eca16-2ac6-4238-9ea3-cf4717bc2342", "query": "在表格-104804中，当“季节 ＃”这一列的值为“11”时，“原始播出日期”这一列的值是多少？", "answer": "January25,2003", "response_gpt4-turbo-128k": "November 16, 2002"}
+{"id": "1885914a-14db-4f91-b8b0-07b4627d17b2", "query": "在表格-152007中，当“选区编号”这一列的值为“123”时，“区”这一列的值是多少？", "answer": "Chhindwara", "response_gpt4-turbo-128k": "Chhindwara"}
+{"id": "ac7f59cc-b2ba-4996-afac-47940cff1800", "query": "在表格-147349中，当“自由的”这一列的值为“*s(i)-ia”时，“所有格 3”这一列的值是多少？", "answer": "*n(i)-ia", "response_gpt4-turbo-128k": "*n(i)-ia"}
+{"id": "9a7ce4e8-d351-42f8-a083-23bb96d99fee", "query": "在表格-145224中，当“玩家”这一列的值为“贾马尔廷斯利”时，“不。”这一列的值是多少？", "answer": 6, "response_gpt4-turbo-128k": "6"}
+{"id": "45cbac8a-31a2-48e5-9316-3e50b35379f9", "query": "在表格-163113中，当“属/种”这一列的值为“小家鼠”时，“长度”这一列的值是多少？", "answer": "208aa", "response_gpt4-turbo-128k": "208aa"}
+{"id": "26649487-579a-4290-b25d-c1474d4d1c4e", "query": "在表格-121134中，当“位置”这一列的值为“4”时，“丢失的”这一列的值是多少？", "answer": 6, "response_gpt4-turbo-128k": "6"}
+{"id": "7159e5f2-2369-4cdd-ae96-f10f25fed90e", "query": "在表格-186461中，当“游戏”这一列的值为“74”时，“高点”这一列的值是多少？", "answer": "Steve Nash (31)", "response_gpt4-turbo-128k": "Steve Nash (31)"}
+{"id": "4fb93448-3cef-4e4b-8512-5ff439d7d0d6", "query": "在表格-102170中，当“区”这一列的值为“北卡罗来纳州 9”时，“现任”这一列的值是多少？", "answer": "Thomas Settle", "response_gpt4-turbo-128k": "西蒙·肖"}
+{"id": "ac5c6517-6b46-4597-905f-349d1b19ec87", "query": "在表格-169655中，当“游戏”这一列的值为“75”时，“团队”这一列的值是多少？", "answer": "@ Indiana", "response_gpt4-turbo-128k": "Detroit"}
+{"id": "e1a614d7-9db2-45c1-b663-e86d4f8885d7", "query": "在表格-171267中，当“派对”这一列的值为“绿色的”时，“选举席位”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "0"}
+{"id": "b25eefcc-e925-4b5d-a5d9-688a52055b9e", "query": "在表格-149155中，当“姓名”这一列的值为“威努凯特学校”时，“十等分”这一列的值是多少？", "answer": "8", "response_gpt4-turbo-128k": "7"}
+{"id": "b009b5ad-2953-4351-885a-e2cf97b1f1e9", "query": "在表格-192470中，当“司机”这一列的值为“哈里·谢尔”时，“时间/退休”这一列的值是多少？", "answer": "Overheating", "response_gpt4-turbo-128k": "Overheating"}
+{"id": "437e762f-b996-4621-806f-11a53925a48d", "query": "在表格-121206中，当“星期”这一列的值为“5”时，“游戏现场”这一列的值是多少？", "answer": "BYE", "response_gpt4-turbo-128k": "Mile High Stadium"}
+{"id": "c6216174-2258-4f92-ae90-6cfb1f437881", "query": "在表格-157065中，当“年”这一列的值为“2013年”时，“团队”这一列的值是多少？", "answer": "Chip Ganassi Racing", "response_gpt4-turbo-128k": "Andretti Autosport"}
+{"id": "0f36185a-9c1d-4662-a807-d47e4cbe088c", "query": "在表格-188345中，当“姓名”这一列的值为“勃艮第大奖赛”时，“电路”这一列的值是多少？", "answer": "Dijon", "response_gpt4-turbo-128k": "Bugatti"}
+{"id": "3911a97f-f917-4d87-bd07-f937eb0bff67", "query": "在表格-173284中，当“司机”这一列的值为“马丁·布伦德尔”时，“时间/退休”这一列的值是多少？", "answer": "+1 Lap", "response_gpt4-turbo-128k": "+1 Lap"}
+{"id": "31b8693b-90da-4e69-a00a-33aa20ba036e", "query": "在表格-113954中，当“区”这一列的值为“加州 18”时，“派对”这一列的值是多少？", "answer": "Democratic", "response_gpt4-turbo-128k": "Democratic"}
+{"id": "77851604-da3f-4d05-abcb-8b6774386db2", "query": "在表格-191904中，当“类别”这一列的值为“每场比赛得分”时，“团队”这一列的值是多少？", "answer": "B-Meg Derby Ace Llamados", "response_gpt4-turbo-128k": "Orlando"}
+{"id": "895d6229-c30c-47be-af5d-1f5477b8bc9e", "query": "在表格-126577中，当“圆形的”这一列的值为“2”时，“挑选”这一列的值是多少？", "answer": "33", "response_gpt4-turbo-128k": "33"}
+{"id": "674f624c-b588-47c3-ac11-11837ddac37d", "query": "在表格-180455中，当“秩”这一列的值为“2”时，“国际游客人数（2012年）”这一列的值是多少？", "answer": "25.0 million", "response_gpt4-turbo-128k": "57.7 million"}
+{"id": "6ad55055-111d-466c-ace1-4227ed5f02b5", "query": "在表格-141373中，当“领带号码”这一列的值为“5”时，“主队”这一列的值是多少？", "answer": "Cambridge United", "response_gpt4-turbo-128k": "Rushall Olympic"}
+{"id": "174d430d-6a4d-4304-a9c6-70308d9b4cff", "query": "在表格-147962中，当“机构”这一列的值为“迪塞尔斯大学”时，“成立”这一列的值是多少？", "answer": 1965, "response_gpt4-turbo-128k": "1965"}
+{"id": "d51910c6-3eba-4029-9b22-49f2c9b7d990", "query": "在表格-152506中，当“位置”这一列的值为“10”时，“团队”这一列的值是多少？", "answer": "Comercial-SP", "response_gpt4-turbo-128k": "at San Diego Chargers"}
+{"id": "90f705d8-5b66-41c2-887c-65b39eb774c2", "query": "在表格-143864中，当“秩”这一列的值为“1”时，“收益($)”这一列的值是多少？", "answer": "9,645,485", "response_gpt4-turbo-128k": "10508163"}
+{"id": "7f73a568-41e2-428e-b3cf-6ae52d97098d", "query": "在表格-163896中，当“姓名”这一列的值为“席尔瓦普拉纳”时，“国籍”这一列的值是多少？", "answer": "Norway", "response_gpt4-turbo-128k": "Norway"}
+{"id": "9073eb13-0b1c-4471-8355-7cc5788c6a79", "query": "在表格-129912中，当“阶段”这一列的值为“20”时，“积分分类”这一列的值是多少？", "answer": "Mario Cipollini", "response_gpt4-turbo-128k": "5"}
+{"id": "0ccb5cfe-5897-474f-ad85-256372d88f1c", "query": "在表格-116389中，当“星期”这一列的值为“14”时，“对手”这一列的值是多少？", "answer": "Cleveland Browns", "response_gpt4-turbo-128k": "Miami Dolphins"}
+{"id": "cf01668d-cb7d-49ea-8e13-9ee4de1e9aa7", "query": "在表格-113622中，当“模型”这一列的值为“R AWD 自动阶段 2”时，“扭矩@rpm”这一列的值是多少？", "answer": "N·m (lb·ft) @2400", "response_gpt4-turbo-128k": "N·m (lb·ft) @2400"}
+{"id": "3fa857e0-603b-46fc-a2d5-44f82087cce8", "query": "在表格-191438中，当“学校”这一列的值为“斯托克波特文法学校”时，“年龄”这一列的值是多少？", "answer": "2-18", "response_gpt4-turbo-128k": "2-11"}
+{"id": "0045e138-ff67-492d-a740-c73286736445", "query": "在表格-139789中，当“年（仪式）”这一列的值为“2011年（第84届）”时，“导演”这一列的值是多少？", "answer": "Alejandro Bellame", "response_gpt4-turbo-128k": "Brecha en el silencio"}
+{"id": "df76918c-4a53-4ffa-8f6b-63c93188b525", "query": "在表格-137313中，当“主队”这一列的值为“富茨克雷”时，“客队比分”这一列的值是多少？", "answer": "6.8 (44)", "response_gpt4-turbo-128k": "6.8 (44)"}
+{"id": "1a25e11c-4eda-493f-86d2-9057400f48df", "query": "在表格-137957中，当“主队”这一列的值为“山楂”时，“人群”这一列的值是多少？", "answer": 12443, "response_gpt4-turbo-128k": "12443"}
+{"id": "21be1044-fa18-4f1a-9e45-730245892f04", "query": "在表格-128467中，当“秩”这一列的值为“7”时，“青铜”这一列的值是多少？", "answer": "1", "response_gpt4-turbo-128k": "10"}
+{"id": "e837b2df-adef-4645-9bea-56b65d84f29a", "query": "在表格-140908中，当“姓名”这一列的值为“拉雷多太阳”时，“语言”这一列的值是多少？", "answer": "English", "response_gpt4-turbo-128k": "English"}
+{"id": "24ec9cf6-76e9-44a3-bd33-ab677e7511c0", "query": "在表格-101974中，当“行政小组”这一列的值为“7”时，“劳工委员会”这一列的值是多少？", "answer": "11", "response_gpt4-turbo-128k": "2"}
+{"id": "2e4eeb95-77db-4b52-bc73-3a9e835f10fc", "query": "在表格-114076中，当“游戏”这一列的值为“65”时，“高篮板”这一列的值是多少？", "answer": "DeAndre Jordan (9)", "response_gpt4-turbo-128k": "12"}
+{"id": "205891fa-ae58-4224-b792-6bbf55a5773c", "query": "在表格-145569中，当“主队”这一列的值为“里士满”时，“主队比分”这一列的值是多少？", "answer": "7.5 (47)", "response_gpt4-turbo-128k": "7.5 (47)"}
+{"id": "2f8cf73b-dd57-43e8-94f6-d6283721c13f", "query": "在表格-161393中，当“纳特。”这一列的值为“BLR”时，“转让费”这一列的值是多少？", "answer": "€15M", "response_gpt4-turbo-128k": "€15M"}
+{"id": "54d490a1-d150-4796-9905-8dc1b40fcb22", "query": "在表格-150789中，当“1队”这一列的值为“芝加哥克罗地亚语”时，“第一站”这一列的值是多少？", "answer": "0 - 4", "response_gpt4-turbo-128k": "0 - 4"}
+{"id": "8b3d64c2-854e-4704-9a43-ad0a4245d751", "query": "在表格-191922中，当“秩”这一列的值为“4”时，“高度英尺(米)”这一列的值是多少？", "answer": "475 (145)", "response_gpt4-turbo-128k": "500 (152)"}
+{"id": "dc7370d4-33bb-4cdd-87cf-3210f3a49a28", "query": "在表格-168969中，当“秩”这一列的值为“12.”时，“总的”这一列的值是多少？", "answer": "$59,735,548", "response_gpt4-turbo-128k": "$59,735,548"}
+{"id": "a18b635c-4698-4458-a510-6e7417c7ce70", "query": "在表格-178632中，当“DVD名称”这一列的值为“逃到河边小屋”时，“纵横比”这一列的值是多少？", "answer": "4:3 Full Frame", "response_gpt4-turbo-128k": "4:3 Full Frame"}
+{"id": "d4e55117-ac87-4d42-a8ad-c48020007708", "query": "在表格-149160中，当“机构”这一列的值为“罗切斯特理工学院”时，“地点”这一列的值是多少？", "answer": "Henrietta, NY", "response_gpt4-turbo-128k": "Henrietta, NY"}
+{"id": "00043ebd-8600-4f7a-a673-10a0eb666b01", "query": "在表格-139361中，当“圆形的”这一列的值为“30”时，“位置”这一列的值是多少？", "answer": "E", "response_gpt4-turbo-128k": "26"}
+{"id": "ccdbc7a6-3a13-435a-b6e3-032328c7bdca", "query": "在表格-122662中，当“主队”这一列的值为“埃森登”时，“日期”这一列的值是多少？", "answer": "29 May 1954", "response_gpt4-turbo-128k": "29 May 1954"}
+{"id": "83058f1c-727e-4139-ab71-da7e88513a57", "query": "在表格-183084中，当“年”这一列的值为“1999年”时，“奖”这一列的值是多少？", "answer": "Top 10 Most Popular Male Artiste", "response_gpt4-turbo-128k": "Miss Charming International"}
+{"id": "eb66b1e5-f867-4049-8cbe-e9b966599cd3", "query": "在表格-174885中，当“司机”这一列的值为“费尔南多·阿隆索”时，“时间/退休”这一列的值是多少？", "answer": "+ 1:17.181", "response_gpt4-turbo-128k": "+ 1:17.181"}
+{"id": "20466730-09dc-48b0-a87f-ebcbdf7cd53e", "query": "在表格-145157中，当“玩家”这一列的值为“詹姆斯·琼斯 (James Jones) 类别：hCard 文章”时，“从”这一列的值是多少？", "answer": "2005", "response_gpt4-turbo-128k": "Altamonte Springs, FL"}
+{"id": "489abf4a-d2d7-4ba2-8e0d-10c7ec76f884", "query": "在表格-119112中，当“星期”这一列的值为“2”时，“对手”这一列的值是多少？", "answer": "at St. Louis Cardinals", "response_gpt4-turbo-128k": "at San Francisco 49ers"}
+{"id": "49a20a81-9de4-49ea-afef-f33485259d34", "query": "在表格-197889中，当“主队”这一列的值为“山楂”时，“日期”这一列的值是多少？", "answer": "21 June 1930", "response_gpt4-turbo-128k": "3 August"}
+{"id": "84348e7b-784b-4a98-88d9-1cf4a6a46e17", "query": "在表格-173490中，当“秩”这一列的值为“1”时，“容量”这一列的值是多少？", "answer": "20,500,000", "response_gpt4-turbo-128k": "560,000"}
+{"id": "10d962da-d51a-4e48-9f68-b78cd9721f14", "query": "在表格-164216中，当“星期”这一列的值为“14”时，“结果”这一列的值是多少？", "answer": "W 31–28", "response_gpt4-turbo-128k": "W 31–28"}
+{"id": "82d4f910-e080-48d1-a041-64a20910ec49", "query": "在表格-111507中，当“星期”这一列的值为“4”时，“电视时间”这一列的值是多少？", "answer": "FOX 1:00pm", "response_gpt4-turbo-128k": "FOX 4:15pm"}
+{"id": "47442bf7-fcc0-42f4-a131-2c97af2700cc", "query": "在表格-158065中，当“玩家”这一列的值为“H·哈蒙德”时，“积分”这一列的值是多少？", "answer": 10, "response_gpt4-turbo-128k": "10"}
+{"id": "e215c761-2263-4055-81de-155b3f5278a5", "query": "在表格-117241中，当“区”这一列的值为“阿肯色州 4”时，“结果”这一列的值是多少？", "answer": "Re-elected", "response_gpt4-turbo-128k": "Re-elected"}
+{"id": "881cfe60-801c-4f51-be9e-900a436607c6", "query": "在表格-190159中，当“1队”这一列的值为“马卡多尼亚”时，“2队”这一列的值是多少？", "answer": "Rabotnički", "response_gpt4-turbo-128k": "Rabotnički"}
+{"id": "b753cb9b-b466-49a4-adeb-86516c4fffad", "query": "在表格-153066中，当“游戏”这一列的值为“29”时，“分数”这一列的值是多少？", "answer": "90–109", "response_gpt4-turbo-128k": "90–109"}
+{"id": "e662b780-f6f7-4135-8f6e-eb55baeb8a0e", "query": "在表格-155372中，当“年”这一列的值为“1985年”时，“男子 35 岁”这一列的值是多少？", "answer": "NSW", "response_gpt4-turbo-128k": "3rd Class"}
+{"id": "40f53097-005d-417d-a615-c7599cf54325", "query": "在表格-147571中，当“玩家”这一列的值为“Nikola Pilić 类别:hCards 文章”时，“首次亮相”这一列的值是多少？", "answer": "1961", "response_gpt4-turbo-128k": "1961"}
+{"id": "8a09fb32-af91-49b5-9eb2-4f1bcc0874e4", "query": "在表格-174120中，当“圆形的”这一列的值为“2”时，“日期”这一列的值是多少？", "answer": "20 July 2007", "response_gpt4-turbo-128k": "September 28, 1969"}
+{"id": "3fa50390-6d0e-4d81-91c8-6c42c472af94", "query": "在表格-157917中，当“星期”这一列的值为“11”时，“出席率”这一列的值是多少？", "answer": 25584, "response_gpt4-turbo-128k": "25,584"}
+{"id": "101952ee-4641-4fb7-8ad9-aaaea2b76b2d", "query": "在表格-198165中，当“集数”这一列的值为“大使”时，“评级（5个省会城市）”这一列的值是多少？", "answer": "1,040,000", "response_gpt4-turbo-128k": "1,040,000"}
+{"id": "c71f250c-2475-47cc-a178-9c90eb18a05a", "query": "在表格-175010中，当“年”这一列的值为“2007年”时，“开发商”这一列的值是多少？", "answer": "Nintendo EAD Tokyo Development Group", "response_gpt4-turbo-128k": "Thatgamecompany"}
+{"id": "50a7322f-bac1-40db-a716-c124a6995088", "query": "在表格-107626中，当“秩”这一列的值为“2”时，“车道”这一列的值是多少？", "answer": "4", "response_gpt4-turbo-128k": "4"}
+{"id": "c9557898-3591-4d05-984e-0328b7650969", "query": "在表格-130503中，当“测量。编号”这一列的值为“1”时，“没有投票”这一列的值是多少？", "answer": 35655, "response_gpt4-turbo-128k": "56946"}
+{"id": "3f410d2f-949a-4fb3-9bb4-a1d137997fa8", "query": "在表格-127175中，当“日期”这一列的值为“2005 年 4 月 20 日”时，“游客”这一列的值是多少？", "answer": "Spurs", "response_gpt4-turbo-128k": "Indians"}
+{"id": "26755afc-c9c6-4f17-9dce-06b255b13f66", "query": "在表格-123020中，当“玩家”这一列的值为“帕德莱格·哈林顿”时，“结束”这一列的值是多少？", "answer": "T10", "response_gpt4-turbo-128k": "T10"}
+{"id": "1d8125ec-a0f1-4e0e-9559-63e97d16460a", "query": "在表格-193325中，当“主队”这一列的值为“埃森登”时，“客队”这一列的值是多少？", "answer": "South Melbourne", "response_gpt4-turbo-128k": "South Melbourne"}
+{"id": "3be0ba43-0083-4db9-a4ad-0addc1328e67", "query": "在表格-115315中，当“挑选”这一列的值为“2”时，“原产地*”这一列的值是多少？", "answer": "United States", "response_gpt4-turbo-128k": "United States"}
+{"id": "c7a34006-a643-4b17-9c43-ae51c3f42289", "query": "在表格-199703中，当“系列 ＃”这一列的值为“87”时，“撰写者”这一列的值是多少？", "answer": "Will Dixon & Damian Kindler", "response_gpt4-turbo-128k": "Gregg Hurwitz"}
+{"id": "57fbf212-9d74-45fb-b2b4-d078dad846bc", "query": "在表格-111413中，当“圆形的”这一列的值为“7”时，“学校”这一列的值是多少？", "answer": "University of Wisconsin", "response_gpt4-turbo-128k": "Minot State"}
+{"id": "2092275e-e274-4cb4-8429-79486495f69f", "query": "在表格-187965中，当“司机”这一列的值为“丹尼尔·索尔多”时，“开始”这一列的值是多少？", "answer": "12", "response_gpt4-turbo-128k": "12"}
+{"id": "1aeeb810-709d-415b-9238-49b532688bfb", "query": "在表格-175246中，当“成员国”这一列的值为“立陶宛”时，“影响”这一列的值是多少？", "answer": "2.94", "response_gpt4-turbo-128k": "2.94"}
+{"id": "4b47848c-3e88-49c0-a8fd-115de49fe7c4", "query": "在表格-150279中，当“画”这一列的值为“8”时，“积分”这一列的值是多少？", "answer": "92", "response_gpt4-turbo-128k": "92"}
+{"id": "cbac42b7-0ecd-485a-a917-1112d59a39b4", "query": "在表格-112178中，当“玩”这一列的值为“阿伽门农”时，“作者”这一列的值是多少？", "answer": "Aeschylus", "response_gpt4-turbo-128k": "Aeschylus"}
+{"id": "3af6b0fc-d8aa-4e4a-9c1c-7249ca177b40", "query": "在表格-116697中，当“姓名”这一列的值为“埃里克·布鲁克 (Eric Brook) 类别:hCards 文章”时，“联盟”这一列的值是多少？", "answer": "450 (0)", "response_gpt4-turbo-128k": "UNKNOW_ERROR"}
+{"id": "a44ccf6f-4591-4e65-827b-05a94cdb21f2", "query": "在表格-172895中，当“日期”这一列的值为“2006 年 8 月 1 日”时，“对手”这一列的值是多少？", "answer": "Leeds United", "response_gpt4-turbo-128k": "Leeds United"}
+{"id": "9d7579a3-8fdf-4c16-8421-0f1580290fe7", "query": "在表格-114984中，当“主队”这一列的值为“富茨克雷”时，“人群”这一列的值是多少？", "answer": "20,000", "response_gpt4-turbo-128k": "20,000"}
+{"id": "bb0ce4f2-59e7-44c7-be16-46962f719fcb", "query": "在表格-199848中，当“年”这一列的值为“1989年”时，“冠军”这一列的值是多少？", "answer": "Andre Agassi", "response_gpt4-turbo-128k": "Andre Agassi"}
+{"id": "672244c7-7979-4b7e-a788-2d568fa8a464", "query": "在表格-125646中，当“开始日期”这一列的值为“2008 年 3 月 13 日”时，“前往俱乐部”这一列的值是多少？", "answer": "Coventry City", "response_gpt4-turbo-128k": "Coventry City"}
+{"id": "c0b45c43-3d42-4c6f-a104-96647d459179", "query": "在表格-151677中，当“不”这一列的值为“13”时，“高度（米）”这一列的值是多少？", "answer": "2.13", "response_gpt4-turbo-128k": "2.13"}
+{"id": "7ab72712-f290-4920-b79a-712ca2e1b83f", "query": "在表格-109403中，当“标题”这一列的值为“杜克斯魔师”时，“城市”这一列的值是多少？", "answer": "LA / NYC", "response_gpt4-turbo-128k": "Tampa"}
+{"id": "bc039855-87b5-4aaa-a901-e0d80933c189", "query": "在表格-111097中，当“游戏”这一列的值为“48”时，“日期”这一列的值是多少？", "answer": "February 1", "response_gpt4-turbo-128k": "12月5日"}
+{"id": "483ad637-24fb-47ff-9f3d-11da3ba9617c", "query": "在表格-148310中，当“位置”这一列的值为“8”时，“姓名”这一列的值是多少？", "answer": "EC Oberstdorf", "response_gpt4-turbo-128k": "EC Oberstdorf"}
+{"id": "38aa3c13-db26-4121-befd-5a17e7a88b80", "query": "在表格-189662中，当“秩”这一列的值为“4”时，“国家”这一列的值是多少？", "answer": "Hungary", "response_gpt4-turbo-128k": "UK"}
+{"id": "ce31f21a-1a18-4994-9564-f439a814a320", "query": "在表格-173886中，当“团队”这一列的值为“圣路易斯公羊队”时，“体育场”这一列的值是多少？", "answer": "Edward Jones Dome", "response_gpt4-turbo-128k": "Edward Jones Dome"}
+{"id": "c7447428-ce01-4867-ab99-b425125c5ede", "query": "在表格-136418中，当“系列号”这一列的值为“20”时，“由...配音”这一列的值是多少？", "answer": "Anthony Green", "response_gpt4-turbo-128k": "Anthony Green"}
+{"id": "47285090-20d8-4963-9a37-656493a0b03f", "query": "在表格-194475中，当“团队”这一列的值为“蒙特利尔曲棍球俱乐部”时，“领带”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "0"}
+{"id": "7ea0e626-9000-4742-bee0-bfce5cc78625", "query": "在表格-106884中，当“日期）”这一列的值为“1986 年 7 月 28 日”时，“门票已售/可用”这一列的值是多少？", "answer": "20,000 / 20,000 (100%)", "response_gpt4-turbo-128k": "13,000/13,000 (100%)"}
+{"id": "5c1d0cf4-8ec4-4b72-a56c-f2ff2a081717", "query": "在表格-198092中，当“日期”这一列的值为“11 月 20 日”时，“分数”这一列的值是多少？", "answer": "4–1", "response_gpt4-turbo-128k": "87–92"}
+{"id": "c1935bee-8888-4e3d-b445-509afedf4e2c", "query": "在表格-192881中，当“秩”这一列的值为“1”时，“局”这一列的值是多少？", "answer": 82, "response_gpt4-turbo-128k": "97.18"}
+{"id": "1192ca46-8e3d-4ace-a117-acc7c2e3b3c1", "query": "在表格-115963中，当“圆形的”这一列的值为“6”时，“学校/俱乐部队”这一列的值是多少？", "answer": "Detroit", "response_gpt4-turbo-128k": "Detroit"}
+{"id": "178badaa-021d-4e1c-b070-ec4b6d56a748", "query": "在表格-134690中，当“秩”这一列的值为“7”时，“金子”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "1"}
+{"id": "f0ed327e-1f51-45e9-b7ef-358ca5eb6f72", "query": "在表格-133947中，当“系列 ＃”这一列的值为“第253章”时，“标题”这一列的值是多少？", "answer": "\"Two Ships\"", "response_gpt4-turbo-128k": "免费航班 #3"}
+{"id": "7c63cd19-d4fe-4c40-9e12-a97259a22ee7", "query": "在表格-151292中，当“姓名”这一列的值为“Dante Taylor 类别:hCards 文章”时，“#”这一列的值是多少？", "answer": 11, "response_gpt4-turbo-128k": "11"}
+{"id": "9b31c530-b77f-4d04-a956-5acecb921e9c", "query": "在表格-196532中，当“日期”这一列的值为“2011 年 10 月 23 日”时，“亚军”这一列的值是多少？", "answer": "Justin Leonard", "response_gpt4-turbo-128k": "Justin Leonard"}
+{"id": "722c7a84-b020-49e8-982e-95a3ceacb33d", "query": "在表格-111123中，当“骑士”这一列的值为“青山宏”时，“圈数”这一列的值是多少？", "answer": "23", "response_gpt4-turbo-128k": "23"}
+{"id": "5a2909e8-3da0-4b5d-8f0c-d0d08aa4786b", "query": "在表格-107347中，当“股东”这一列的值为“SEB投资管理公司”时，“B股”这一列的值是多少？", "answer": 11034379, "response_gpt4-turbo-128k": "11034379"}
+{"id": "c2eea446-060e-480f-96bc-96b7869dba2b", "query": "在表格-185037中，当“#”这一列的值为“48”时，“游客”这一列的值是多少？", "answer": "Chicago Bulls", "response_gpt4-turbo-128k": "Brian Cook"}
+{"id": "b4702ccb-ac8e-4802-8b69-829cde8da202", "query": "在表格-128910中，当“纳特。”这一列的值为“特殊需要”时，“搬到”这一列的值是多少？", "answer": "Ilisiakos", "response_gpt4-turbo-128k": "APOEL"}
+{"id": "1a9f8716-9711-4d00-961c-2df1cf30a916", "query": "在表格-157496中，当“2010年ARWU排名”这一列的值为“406”时，“2010年QS世界排名”这一列的值是多少？", "answer": "none", "response_gpt4-turbo-128k": "none"}
+{"id": "08532f31-15aa-4021-a7ca-e1716d84c27d", "query": "在表格-193913中，当“日期”这一列的值为“12月16日”时，“条纹”这一列的值是多少？", "answer": "W7", "response_gpt4-turbo-128k": "W1"}
+{"id": "1a7870bc-edd2-41dc-a0e7-37e1f94b74e5", "query": "在表格-112541中，当“事件编号”这一列的值为“19”时，“受伤”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "0"}
+{"id": "52f8b289-cc09-4e3a-a47b-82a945271788", "query": "在表格-167489中，当“原来的 NFL 球队”这一列的值为“圣地亚哥闪电队”时，“玩家”这一列的值是多少？", "answer": "Joe Beauchamp Category:Articles with hCards †", "response_gpt4-turbo-128k": "Joe Beauchamp"}
+{"id": "8358a947-3d95-4bf1-90b7-a6bdef29f53f", "query": "在表格-176689中，当“日期/时间（格林尼治标准时间）”这一列的值为“1963 年 4 月 6 日 07:25”时，“变体”这一列的值是多少？", "answer": "BB-I", "response_gpt4-turbo-128k": "BB-I"}
+{"id": "59d9a288-6f3d-4ceb-9a3d-8cd0e8c14c05", "query": "在表格-182840中，当“选举”这一列的值为“1965年”时，“票数”这一列的值是多少？", "answer": "3,861,324", "response_gpt4-turbo-128k": "2,532"}
+{"id": "06f50907-8d80-4844-a550-0f351a0c89b6", "query": "在表格-177539中，当“学校”这一列的值为“多佛”时，“团队”这一列的值是多少？", "answer": "Senators", "response_gpt4-turbo-128k": "Senators"}
+{"id": "271fa384-04bc-4f44-9b4c-37fe28aa8c99", "query": "在表格-105796中，当“系列 ＃”这一列的值为“175”时，“季节 ＃”这一列的值是多少？", "answer": 18, "response_gpt4-turbo-128k": "18"}
+{"id": "f320734a-173e-4582-93fd-f616179ce1c4", "query": "在表格-138769中，当“主队”这一列的值为“吉朗”时，“客队”这一列的值是多少？", "answer": "St Kilda", "response_gpt4-turbo-128k": "南墨尔本"}
+{"id": "a82e5a1a-6758-4557-8887-6c2899b35937", "query": "在表格-199064中，当“秩”这一列的值为“3”时，“国家”这一列的值是多少？", "answer": "Japan (JPN)", "response_gpt4-turbo-128k": "Japan"}
+{"id": "8b98f762-7328-40f5-86f3-c1144e9339bd", "query": "在表格-114884中，当“压缩包”这一列的值为“广州”时，“东西 X”这一列的值是多少？", "answer": "SITX", "response_gpt4-turbo-128k": "No"}
+{"id": "bd6b06d2-1464-4857-b47b-f9a9eefe7df3", "query": "在表格-136325中，当“星期”这一列的值为“14”时，“出席率”这一列的值是多少？", "answer": "41,593", "response_gpt4-turbo-128k": "64,902"}
+{"id": "eb427331-bf14-4797-9da7-9b134ef1a13e", "query": "在表格-138426中，当“比赛”这一列的值为“美国公开赛”时，“前10名”这一列的值是多少？", "answer": "3", "response_gpt4-turbo-128k": "9"}
+{"id": "3347834a-83e1-47d8-88a3-e6dfd72f7d70", "query": "在表格-163720中，当“玩家”这一列的值为“鲍勃·查尔斯”时，“全部的”这一列的值是多少？", "answer": "149", "response_gpt4-turbo-128k": "149"}
+{"id": "80d67a7b-9c6c-46fb-8cce-f163fd636b67", "query": "在表格-158360中，当“数字”这一列的值为“10”时，“面积（平方公里）”这一列的值是多少？", "answer": "22.00", "response_gpt4-turbo-128k": "1.97"}
+{"id": "95b292f4-3f7d-4fcf-906d-867eeb9b3a8e", "query": "在表格-158776中，当“游戏”这一列的值为“16”时，“对手”这一列的值是多少？", "answer": "at New Orleans Saints", "response_gpt4-turbo-128k": "at New Orleans Saints"}
+{"id": "75c67c20-360a-46fb-b9a2-d8f42bd70fbc", "query": "在表格-175199中，当“季节”这一列的值为“8”时，“季首映”这一列的值是多少？", "answer": "December 13, 2007", "response_gpt4-turbo-128k": "October 31, 1971"}
+{"id": "ab31c9ee-a65e-44e1-9c9f-5b7ec705710f", "query": "在表格-188022中，当“团队名字”这一列的值为“欧洲集团联盟”时，“从”这一列的值是多少？", "answer": "6 July 1995", "response_gpt4-turbo-128k": "6 July 1995"}
+{"id": "8a811338-1a1f-4813-850d-ab2292e80300", "query": "在表格-179308中，当“年”这一列的值为“2004 – 2006”时，“打平局”这一列的值是多少？", "answer": "11 (7–4)", "response_gpt4-turbo-128k": "11 (7–4)"}
+{"id": "df0918b2-0f4e-4c12-9035-49eb6b225298", "query": "在表格-196522中，当“司机”这一列的值为“扬·马格努森”时，“时间/退休”这一列的值是多少？", "answer": "Spun off", "response_gpt4-turbo-128k": "Spun off"}
+{"id": "f7604505-7ee8-44f6-b84f-16e671f60fc0", "query": "在表格-176704中，当“日期”这一列的值为“10 月 12 日”时，“分数”这一列的值是多少？", "answer": "3 – 2", "response_gpt4-turbo-128k": "4–2"}
+{"id": "a69ae129-74e2-499a-9afd-08aac6d4b5e0", "query": "在表格-190996中，当“日期”这一列的值为“6月19日”时，“出席率”这一列的值是多少？", "answer": "9,428", "response_gpt4-turbo-128k": "9,428"}
+{"id": "138f41f9-a6fc-4dcd-bcec-14b6f9720e06", "query": "在表格-119154中，当“玩家”这一列的值为“哈龙·布朗”时，“长的”这一列的值是多少？", "answer": "20", "response_gpt4-turbo-128k": "20.0"}
+{"id": "e972b530-0fc6-4c15-989b-5bd577c894c7", "query": "在表格-178480中，当“游戏”这一列的值为“29”时，“团队”这一列的值是多少？", "answer": "@ Dallas", "response_gpt4-turbo-128k": "加拿大"}
+{"id": "14da2d76-97ac-42ca-831d-03019c570c6f", "query": "在表格-117200中，当“游戏”这一列的值为“2”时，“高篮板”这一列的值是多少？", "answer": "Pau Gasol (17)", "response_gpt4-turbo-128k": "Singleton (21)"}
+{"id": "04accdc4-d982-4c5c-a1af-3e97e0a426a4", "query": "在表格-144832中，当“团队”这一列的值为“5月2日”时，“玩过”这一列的值是多少？", "answer": "126", "response_gpt4-turbo-128k": "22"}
+{"id": "d8b3c19a-e420-44a3-8c2e-e579cc5b6ee8", "query": "在表格-126217中，当“地方”这一列的值为“1”时，“国家”这一列的值是多少？", "answer": "United States", "response_gpt4-turbo-128k": "United States"}
+{"id": "04b266f1-6aea-4ad2-9bc3-fc21b9164110", "query": "在表格-169315中，当“系列号”这一列的值为“6”时，“生产代码”这一列的值是多少？", "answer": "06-99-110", "response_gpt4-turbo-128k": "06-99-110"}
+{"id": "ac5bf958-2aa0-4475-8456-f6612ce1061d", "query": "在表格-115167中，当“挑选 ＃”这一列的值为“24”时，“位置”这一列的值是多少？", "answer": "Goaltender", "response_gpt4-turbo-128k": "Goaltender"}
+{"id": "37b9a3c2-f8f6-4e9c-8e2f-3c3959148c5f", "query": "在表格-158190中，当“不。”这一列的值为“8”时，“原始播出日期”这一列的值是多少？", "answer": "September23,2010", "response_gpt4-turbo-128k": "October 19, 2003"}
+{"id": "c054715b-cc11-4ddf-ac15-230a1b59a8ef", "query": "在表格-122114中，当“主队”这一列的值为“南墨尔本”时，“客队比分”这一列的值是多少？", "answer": "19.16 (130)", "response_gpt4-turbo-128k": "15.13 (103)"}
+{"id": "7c8e4812-40d4-407a-90e1-be3ed9912ba5", "query": "在表格-136554中，当“日期”这一列的值为“2月8日”时，“游客”这一列的值是多少？", "answer": "Ottawa", "response_gpt4-turbo-128k": "New York Rangers"}
+{"id": "4af6f23a-7a27-4e8f-aad2-62b11957a574", "query": "在表格-161082中，当“地区/国家”这一列的值为“德国”时，“播出日期”这一列的值是多少？", "answer": "1973–1976", "response_gpt4-turbo-128k": "1973–1976"}
+{"id": "4e8908b3-4d5f-4963-bc8b-de44dcdd1bcb", "query": "在表格-121514中，当“阿查里亚数”这一列的值为“1”时，“出生于”这一列的值是多少？", "answer": "25 May 1809", "response_gpt4-turbo-128k": "25 May 1809"}
+{"id": "d6cb8be7-9ea6-44ae-a988-3b557c77ef1f", "query": "在表格-107305中，当“会议”这一列的值为“常春藤盟校”时，“锦标赛冠军”这一列的值是多少？", "answer": "No Tournament", "response_gpt4-turbo-128k": "Penn"}
+{"id": "ba8c73b1-a0b9-43e4-ac2b-018c8b73db0a", "query": "在表格-140907中，当“市场排名和许可城市/市场”这一列的值为“2.洛杉矶”时，“车站”这一列的值是多少？", "answer": "KABC-TV", "response_gpt4-turbo-128k": "KABC-TV"}
+{"id": "e1ec0e69-c12e-4490-a08c-75cc8ebcc12d", "query": "在表格-187475中，当“年”这一列的值为“2008年”时，“竞赛”这一列的值是多少？", "answer": "World Junior Championships", "response_gpt4-turbo-128k": "2008年的竞赛是“拉脱维亚”。"}
+{"id": "32567242-9ae0-4216-a2e3-5c43949c861e", "query": "在表格-157146中，当“圆形的”这一列的值为“3 4”时，“电路”这一列的值是多少？", "answer": "Assen", "response_gpt4-turbo-128k": "Assen"}
+{"id": "0d0ce87e-c174-4a71-a3f1-f05f4021127f", "query": "在表格-155981中，当“主队”这一列的值为“南墨尔本”时，“客队比分”这一列的值是多少？", "answer": "4.4 (28)", "response_gpt4-turbo-128k": "8.9 (57)"}
+{"id": "66729fca-260c-4b16-9b8a-1a7678910e91", "query": "在表格-180533中，当“秩”这一列的值为“6”时，“运动员”这一列的值是多少？", "answer": "Mbulaeni Mulaudzi", "response_gpt4-turbo-128k": "Mbulaeni Mulaudzi"}
+{"id": "bcc385e3-8767-460a-9f53-a62aba2d2386", "query": "在表格-137623中，当“姓”这一列的值为“弗洛伊德”时，“出生日期”这一列的值是多少？", "answer": "17/01/83", "response_gpt4-turbo-128k": "17/01/83"}
+{"id": "79566776-3e7c-44f3-8dba-5a82efbc662d", "query": "在表格-139056中，当“#”这一列的值为“14”时，“省”这一列的值是多少？", "answer": "Carabaya", "response_gpt4-turbo-128k": "Noble"}
+{"id": "dd8fb265-9838-44d2-acee-1dd3c60238da", "query": "在表格-187060中，当“系列 ＃”这一列的值为“19”时，“生产代码”这一列的值是多少？", "answer": 175668, "response_gpt4-turbo-128k": "2J5561"}
+{"id": "61831522-6622-43ec-a605-7f8cd50bece1", "query": "在表格-132289中，当“主队”这一列的值为“菲茨罗伊”时，“人群”这一列的值是多少？", "answer": "12,000", "response_gpt4-turbo-128k": "22,000"}
+{"id": "42d5c573-b256-4fc9-8e61-4c63f8a5b060", "query": "在表格-131414中，当“日期”这一列的值为“1976 年 10 月 26 日”时，“家”这一列的值是多少？", "answer": "Atlanta Hawks", "response_gpt4-turbo-128k": "Atlanta Hawks"}
+{"id": "54f7a147-e46d-4932-bef0-98f0840cda9f", "query": "在表格-182752中，当“主队”这一列的值为“富茨克雷”时，“日期”这一列的值是多少？", "answer": "22 May 1926", "response_gpt4-turbo-128k": "22 May 1926"}
+{"id": "4eae9e5b-72b5-422b-a468-0898f699048c", "query": "在表格-117837中，当“日期”这一列的值为“9 月 22 日”时，“结果 1”这一列的值是多少？", "answer": "4:0", "response_gpt4-turbo-128k": "4:0"}
+{"id": "06e00133-dbea-453d-b30c-fb6dee31408e", "query": "在表格-173207中，当“日期”这一列的值为“11/26”时，“对手”这一列的值是多少？", "answer": "at Iowa", "response_gpt4-turbo-128k": "New York Giants"}
+{"id": "15b2388b-200e-40e0-8cb4-8642fe5cd050", "query": "在表格-111673中，当“冲突”这一列的值为“塞拉利昂内战”时，“性虐待 1”这一列的值是多少？", "answer": 50, "response_gpt4-turbo-128k": "50"}
+{"id": "c9750213-ef86-4ae0-a2c9-477fcccc09d1", "query": "在表格-124820中，当“区”这一列的值为“阿肯色州 4”时，“结果”这一列的值是多少？", "answer": "Retired Democratic hold", "response_gpt4-turbo-128k": "Retired Democratic hold"}
+{"id": "b06cb677-4c56-40a4-aea0-c5687f148bae", "query": "在表格-178275中，当“年”这一列的值为“1989年”时，“发布日期”这一列的值是多少？", "answer": "October 5, 1989", "response_gpt4-turbo-128k": "October 22, 1992"}
+{"id": "c1c7a991-2bd3-496a-bc66-59ece3702e45", "query": "在表格-179478中，当“位置”这一列的值为“长波”时，“出生日期”这一列的值是多少？", "answer": "19 October 1895", "response_gpt4-turbo-128k": "19 October 1895"}
+{"id": "79aaf95d-55da-44ea-a7b0-8c363d17f923", "query": "在表格-164597中，当“秩”这一列的值为“12”时，“青铜”这一列的值是多少？", "answer": "4", "response_gpt4-turbo-128k": "1"}
+{"id": "ac3e5645-9e4d-4650-9545-704373fd8d17", "query": "在表格-119480中，当“游戏”这一列的值为“22”时，“对手”这一列的值是多少？", "answer": "@ Buffalo Sabres", "response_gpt4-turbo-128k": "Gateshead Thunder"}
+{"id": "7fbd5dd3-064e-403b-97f9-f1c536522af9", "query": "在表格-123678中，当“命令”这一列的值为“第一名”时，“勋章”这一列的值是多少？", "answer": "SILVER", "response_gpt4-turbo-128k": "GOLD"}
+{"id": "51f6abfc-705e-450e-9fae-a52465a51294", "query": "在表格-188723中，当“圆形的”这一列的值为“2”时，“全面的”这一列的值是多少？", "answer": "52", "response_gpt4-turbo-128k": "1"}
+{"id": "6b1042c7-f6d3-4a67-b9ee-01356a6cfbd8", "query": "在表格-142406中，当“主队”这一列的值为“埃森登”时，“日期”这一列的值是多少？", "answer": "22 April 1967", "response_gpt4-turbo-128k": "September 4, 1983"}
+{"id": "299e78cc-de4c-4586-94a5-903fdb7553b3", "query": "在表格-112130中，当“日期”这一列的值为“2005 年 2 月 27 日”时，“决赛对手”这一列的值是多少？", "answer": "Jiří Vaněk Tomáš Zíb", "response_gpt4-turbo-128k": "Gastón Etlis Martín Rodríguez"}
+{"id": "42b73bce-eb25-4ec0-bb9e-c904971d9f3e", "query": "在表格-148163中，当“区”这一列的值为“弗吉尼亚 17”时，“首次当选”这一列的值是多少？", "answer": "1820 (special)", "response_gpt4-turbo-128k": "1820 (special)"}
+{"id": "4e35864b-b29f-4f61-afeb-7caa029494fb", "query": "在表格-188662中，当“年”这一列的值为“1992年”时，“位置”这一列的值是多少？", "answer": "1st", "response_gpt4-turbo-128k": "第二名"}
+{"id": "bc7e9953-330d-4899-812f-86a126ac635b", "query": "在表格-156063中，当“骑士”这一列的值为“大卫·切卡”时，“网格”这一列的值是多少？", "answer": "14", "response_gpt4-turbo-128k": "14"}
+{"id": "151b3ca9-d668-497b-a93a-cf74cda5de7a", "query": "在表格-114933中，当“游戏”这一列的值为“10”时，“记录”这一列的值是多少？", "answer": "9-1", "response_gpt4-turbo-128k": "6–4"}
+{"id": "1ac26963-fe1b-4dbc-a3b6-ab9a36d7121e", "query": "在表格-159637中，当“星期”这一列的值为“16”时，“对手”这一列的值是多少？", "answer": "at San Diego Chargers", "response_gpt4-turbo-128k": "San Diego Chargers"}
+{"id": "80fca50f-b705-4808-a371-b55ee38f5bdf", "query": "在表格-188316中，当“系列号”这一列的值为“28”时，“季节号”这一列的值是多少？", "answer": 3, "response_gpt4-turbo-128k": "3"}
+{"id": "25edc3b0-0117-4cf6-8e62-986b740b465b", "query": "在表格-194377中，当“玩家”这一列的值为“帕特·伯克”时，“位置”这一列的值是多少？", "answer": "Center", "response_gpt4-turbo-128k": "Center"}
+{"id": "bf8b1f73-6a34-4933-9a01-3c409c39746b", "query": "在表格-192027中，当“姓名”这一列的值为“目标扫描”时，“分子内结构”这一列的值是多少？", "answer": "evaluated indirectly", "response_gpt4-turbo-128k": "evaluated indirectly"}
+{"id": "40192bcb-d80d-4e22-bffb-84428f4a4046", "query": "在表格-197930中，当“日期”这一列的值为“9月19日-9月28日”时，“地点”这一列的值是多少？", "answer": "Hossegor", "response_gpt4-turbo-128k": "Hossegor"}
+{"id": "2cf15813-c683-484d-83db-03956991dd23", "query": "在表格-117191中，当“地点”这一列的值为“阿肯色州核桃岭”时，“昵称”这一列的值是多少？", "answer": "Eagles", "response_gpt4-turbo-128k": "Eagles"}
+{"id": "f7f196f8-6c84-4ebb-a893-228256355656", "query": "在表格-181506中，当“游戏”这一列的值为“61”时，“高助攻”这一列的值是多少？", "answer": "Mike Conley, Jr. (9)", "response_gpt4-turbo-128k": "Mike Conley, Jr. (9)"}
+{"id": "1e1e6564-22f5-4181-a6c2-a4f97cfcadf0", "query": "在表格-115818中，当“系列号”这一列的值为“137”时，“撰写者”这一列的值是多少？", "answer": "Larry Jacobson", "response_gpt4-turbo-128k": "Charles D. Holland"}
+{"id": "d29938ea-299f-45cb-84cc-9b4f2a4b2692", "query": "在表格-126920中，当“秩”这一列的值为“11”时，“国家”这一列的值是多少？", "answer": "Ynys Môn/Anglesey", "response_gpt4-turbo-128k": "芬兰"}
+{"id": "1893df58-d5e6-4967-bca2-6c99ac1a2dc9", "query": "在表格-120223中，当“机构”这一列的值为“波士顿学院”时，“ACC 工作年限”这一列的值是多少？", "answer": "2005–present", "response_gpt4-turbo-128k": "2005–present"}
+{"id": "7f2e25f1-6459-4076-818b-d6e264f9e0f0", "query": "在表格-132171中，当“路。”这一列的值为“16”时，“报告”这一列的值是多少？", "answer": "Report", "response_gpt4-turbo-128k": "Report"}
+{"id": "63a69197-ad4b-4a9d-8ab5-32584928af19", "query": "在表格-154959中，当“消除”这一列的值为“5”时，“摔跤手”这一列的值是多少？", "answer": "Jorge Santana", "response_gpt4-turbo-128k": "Zach Gowen"}
+{"id": "983f23de-6661-4a4f-a8d0-35ad4ed1d18f", "query": "在表格-145109中，当“秩”这一列的值为“5”时，“银”这一列的值是多少？", "answer": "2", "response_gpt4-turbo-128k": "2"}
+{"id": "da7ce4d6-3d77-4ae6-9c19-29ada94ae277", "query": "在表格-151117中，当“比赛”这一列的值为“澳大利亚公开赛”时，“2003年”这一列的值是多少？", "answer": "QF", "response_gpt4-turbo-128k": "1R"}
+{"id": "8627b643-091b-441d-a9eb-1822dfa13c2b", "query": "在表格-146461中，当“来源”这一列的值为“摩尔信息”时，“领先保证金”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "0"}
+{"id": "2d680955-9960-478a-bdbe-9039cc274901", "query": "在表格-113792中，当“匹配”这一列的值为“4”时，“竞技场”这一列的值是多少？", "answer": "A", "response_gpt4-turbo-128k": "Dengeki G's Magazine"}
+{"id": "17253c8a-2eb1-40cc-bfe1-d604e77daf19", "query": "在表格-152789中，当“团队”这一列的值为“美国”时，“出发方式”这一列的值是多少？", "answer": "Sacked", "response_gpt4-turbo-128k": "Sacked"}
+{"id": "9273635e-9097-41a5-a956-a0e743a52e07", "query": "在表格-193355中，当“秩”这一列的值为“5”时，“时间”这一列的值是多少？", "answer": "7:52.65", "response_gpt4-turbo-128k": "281"}
+{"id": "7956da01-22bf-4c11-b7bc-341ffc50b79d", "query": "在表格-105279中，当“游戏”这一列的值为“80”时，“团队”这一列的值是多少？", "answer": "@ Indiana", "response_gpt4-turbo-128k": "Cleveland"}
+{"id": "d04b9005-146a-4e32-95e9-d14dcb74845b", "query": "在表格-119527中，当“地方”这一列的值为“1”时，“玩家”这一列的值是多少？", "answer": "Billy Casper", "response_gpt4-turbo-128k": "泰勒·奥尔德里奇"}
+{"id": "e873f19b-2ff7-4aa2-8136-2dbc9af58686", "query": "在表格-153690中，当“系列号”这一列的值为“40”时，“美国观众（百万）”这一列的值是多少？", "answer": "3.2", "response_gpt4-turbo-128k": "3.8"}
+{"id": "6ef414d4-3eaa-49ee-a012-fa2fddd8b46e", "query": "在表格-126975中，当“框架尺寸”这一列的值为“4K”时，“24 fps 时压缩率最低”这一列的值是多少？", "answer": "6:1", "response_gpt4-turbo-128k": "6:1"}
+{"id": "4c5036cf-6667-4c8e-b831-8ca54e9e9e8d", "query": "在表格-132150中，当“圆形的”这一列的值为“11”时，“位置”这一列的值是多少？", "answer": "Defensive Back", "response_gpt4-turbo-128k": "4。"}
+{"id": "a8c80293-1aea-47eb-917e-6137e38129af", "query": "在表格-171012中，当“游戏”这一列的值为“35”时，“团队”这一列的值是多少？", "answer": "Oklahoma City", "response_gpt4-turbo-128k": "@ Utah"}
+{"id": "da693515-20a1-43ae-838e-f4a8ebd25b95", "query": "在表格-118672中，当“结束”这一列的值为“第四名”时，“种族”这一列的值是多少？", "answer": "Breeders' Cup Classic", "response_gpt4-turbo-128k": "Breeders' Cup Classic"}
+{"id": "33880416-eccc-43ee-aee9-d247371163c5", "query": "在表格-132285中，当“日期”这一列的值为“2月23日”时，“积分”这一列的值是多少？", "answer": "40", "response_gpt4-turbo-128k": "10.61"}
+{"id": "18c2c6e6-f8a8-4098-98f6-22607b37fb59", "query": "在表格-172764中，当“年”这一列的值为“2008年”时，“平均。开始”这一列的值是多少？", "answer": "24.3", "response_gpt4-turbo-128k": "27.0"}
+{"id": "2adbd4df-6078-492f-8a54-f228e5521f28", "query": "在表格-144909中，当“骑士”这一列的值为“安德鲁·皮特”时，“时间”这一列的值是多少？", "answer": "37:08.387", "response_gpt4-turbo-128k": "7:00 AM"}
+{"id": "c9072b12-81fa-452a-b818-82a17ebfd50a", "query": "在表格-186805中，当“第一场比赛”这一列的值为“2010年”时，“画”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "0"}
+{"id": "4925e3d8-486f-46b1-9e9b-97e358b06522", "query": "在表格-150692中，当“圆形的”这一列的值为“6”时，“玩家”这一列的值是多少？", "answer": "Dennis Vial", "response_gpt4-turbo-128k": "谢雷尔·霍布斯"}
+{"id": "1d4805c1-0e95-4585-ad63-49c6907992ad", "query": "在表格-181951中，当“地方”这一列的值为“1”时，“玩家”这一列的值是多少？", "answer": "Craig Stadler", "response_gpt4-turbo-128k": "T. R. Baalu"}
+{"id": "646a54ef-b7fc-463b-b16c-89e44a8b6e59", "query": "在表格-186486中，当“集数#”这一列的值为“31”时，“生产代码”这一列的值是多少？", "answer": 205, "response_gpt4-turbo-128k": "205"}
+{"id": "2fb78eec-7b68-459a-801b-91557701b165", "query": "在表格-190568中，当“天”这一列的值为“1（2 月 12 日）”时，“长度”这一列的值是多少？", "answer": "1.92km", "response_gpt4-turbo-128k": "1.92km"}
+{"id": "5738e8b8-675b-4ab9-8129-0ac25ce75833", "query": "在表格-143870中，当“系列 ＃”这一列的值为“63”时，“标题”这一列的值是多少？", "answer": "\"An Old-Fashioned Piano Party\"", "response_gpt4-turbo-128k": "\"Instinct\""}
+{"id": "50aa87ea-d110-4a19-999f-ab2644d36a1a", "query": "在表格-156616中，当“选举”这一列的值为“1992年”时，“投票比例”这一列的值是多少？", "answer": "53.0%", "response_gpt4-turbo-128k": "0.41"}
+{"id": "b48588c7-26cc-4add-a580-701844f3cc95", "query": "在表格-158517中，当“玩家”这一列的值为“杰克·尼克劳斯”时，“达到标准杆”这一列的值是多少？", "answer": "–8", "response_gpt4-turbo-128k": "+10"}
+{"id": "3fcacb3d-6717-4d53-862c-93264b2c61dc", "query": "在表格-173303中，当“游戏”这一列的值为“73”时，“高助攻”这一列的值是多少？", "answer": "Beno Udrih (6)", "response_gpt4-turbo-128k": "Beno Udrih (6)"}
+{"id": "63503180-1b4f-4179-be22-d0a416400f50", "query": "在表格-177710中，当“日期”这一列的值为“11 月 25 日”时，“结果”这一列的值是多少？", "answer": "Win", "response_gpt4-turbo-128k": "W 30-6"}
+{"id": "7d2c07b4-c1a7-44dd-a911-a3d4df92365d", "query": "在表格-192726中，当“年”这一列的值为“1993年”时，“胜利”这一列的值是多少？", "answer": 0, "response_gpt4-turbo-128k": "1"}
+{"id": "a07c5b5c-843c-4af0-8e49-0c90738d1c14", "query": "在表格-107157中，当“姓名”这一列的值为“Stuart MacGill 类别:hCards 文章”时，“10瓦”这一列的值是多少？", "answer": 2, "response_gpt4-turbo-128k": "2"}
+{"id": "26d9ff01-aa15-4eea-beaa-028557d20fe1", "query": "在表格-181778中，当“国家”这一列的值为“墨西哥”时，“金子”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "1"}
+{"id": "bca97bf1-892c-4848-a399-59c6e4d8c30c", "query": "在表格-157725中，当“游戏”这一列的值为“70”时，“对手”这一列的值是多少？", "answer": "@ Philadelphia Flyers", "response_gpt4-turbo-128k": "L.A. Clippers"}
+{"id": "1d0dc37f-d096-4849-b6cc-49b74ce3a02c", "query": "在表格-185835中，当“20年”这一列的值为“1000 美元/千瓦”时，“800 千瓦时/千瓦 py”这一列的值是多少？", "answer": "12.5", "response_gpt4-turbo-128k": "7.5"}
+{"id": "3aabdcfc-c111-45c7-b05a-3004f213f3ba", "query": "在表格-141674中，当“机构”这一列的值为“康科迪亚学院”时，“成立”这一列的值是多少？", "answer": 1891, "response_gpt4-turbo-128k": "1891"}
+{"id": "18d80160-a38c-4063-a253-7a0e830dcff8", "query": "在表格-165350中，当“位置”这一列的值为“12”时，“进球数”这一列的值是多少？", "answer": "51", "response_gpt4-turbo-128k": "56"}
+{"id": "ec6a0ab8-1751-48a8-b7f6-a9847711bc4c", "query": "在表格-159255中，当“日期”这一列的值为“8月9日”时，“损失”这一列的值是多少？", "answer": "Wells (12-7)", "response_gpt4-turbo-128k": "Wells (12-7)"}
+{"id": "1e5604c6-0a62-4042-af7a-25d906b76352", "query": "在表格-135785中，当“圆形的”这一列的值为“4”时，“全面的”这一列的值是多少？", "answer": "104", "response_gpt4-turbo-128k": "369"}
+{"id": "e961f83b-2cbc-4b38-adfd-77a98c8b3b14", "query": "在表格-143154中，当“模型”这一列的值为“西雅特阿罕布拉”时，“1999年”这一列的值是多少？", "answer": "27,440", "response_gpt4-turbo-128k": "0"}
+{"id": "72448d9d-9d76-4dd7-ae36-a582ad1d2122", "query": "在表格-139677中，当“日期”这一列的值为“10 月 25 日”时，“家”这一列的值是多少？", "answer": "Anaheim", "response_gpt4-turbo-128k": "New Orleans Saints"}
+{"id": "30ff4a0a-e650-41ce-a317-459cb252ea87", "query": "在表格-156202中，当“姓名”这一列的值为“古尔申”时，“山站高度(m)”这一列的值是多少？", "answer": "2205", "response_gpt4-turbo-128k": "2955"}
+{"id": "ce1380b2-b3bb-428d-a3a8-b0d8ea63a2b8", "query": "在表格-193458中，当“俱乐部”这一列的值为“俱乐部”时，“尝试反对”这一列的值是多少？", "answer": "Tries against", "response_gpt4-turbo-128k": "44"}
+{"id": "e07cdc41-6bad-400b-8f84-82fa73bf14e1", "query": "在表格-164043中，当“重量划分”这一列的值为“重量级”时，“失败者”这一列的值是多少？", "answer": "Mario Rinaldi", "response_gpt4-turbo-128k": "Mario Rinaldi"}
+{"id": "1b6a7ed7-8c18-4df7-b15d-ab5759a3367a", "query": "在表格-138155中，当“DVD标题”这一列的值为“Ben 10：外星力量第 5 卷”时，“季节”这一列的值是多少？", "answer": "Season Two", "response_gpt4-turbo-128k": "Season Two"}
+{"id": "94e3824c-02a9-4449-a1a8-fb2905dcb293", "query": "在表格-140673中，当“日期”这一列的值为“2010 年 11 月 17 日”时，“目标”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "0"}
+{"id": "8f42e999-86a9-4b41-82d0-9e07ed9f5b39", "query": "在表格-180350中，当“司机”这一列的值为“艾伦·琼斯”时，“参赛者”这一列的值是多少？", "answer": "Arrows Racing Team", "response_gpt4-turbo-128k": "Williams - Honda"}
+{"id": "2149a21f-622b-4886-bfed-1e1b3ace4e82", "query": "在表格-186386中，当“年”这一列的值为“2007年”时，“获奖者”这一列的值是多少？", "answer": "MC Alger", "response_gpt4-turbo-128k": "Kristie Kolacny"}
+{"id": "17773454-77e9-4c94-b555-a91066c22f9f", "query": "在表格-152342中，当“俱乐部”这一列的值为“阿曼福德 RFC”时，“韩元”这一列的值是多少？", "answer": "11", "response_gpt4-turbo-128k": "5"}
+{"id": "91d94f79-3840-463f-890f-584dd48f54df", "query": "在表格-161707中，当“颜色”这一列的值为“橙子”时，“质量（克/摩尔）”这一列的值是多少？", "answer": "1078", "response_gpt4-turbo-128k": "1078"}
+{"id": "c8fd50fc-ab48-4208-a145-cf7b64275264", "query": "在表格-169769中，当“团队”这一列的值为“弗里曼特尔”时，“主办”这一列的值是多少？", "answer": "11", "response_gpt4-turbo-128k": "7th"}
+{"id": "2c84e437-e031-478c-bfeb-a547ffd3005d", "query": "在表格-186512中，当“游戏”这一列的值为“5”时，“高篮板”这一列的值是多少？", "answer": "Elton Brand (12)", "response_gpt4-turbo-128k": "Samuel Dalembert (14)"}
+{"id": "253bb52e-d8f8-48e0-a7ac-8537a94da806", "query": "在表格-187046中，当“灾难”这一列的值为“卡特里娜飓风”时，“受影响的国家”这一列的值是多少？", "answer": "USA", "response_gpt4-turbo-128k": "USA"}
+{"id": "16042b59-46d8-4ca3-a684-1a925972a86f", "query": "在表格-105759中，当“区”这一列的值为“俄亥俄州 13”时，“候选人”这一列的值是多少？", "answer": "Sherrod Brown (D) 68.97% Ed Oliveros (R) 31.03%", "response_gpt4-turbo-128k": "Sherrod Brown"}
+{"id": "d44e0190-9844-4323-8c7e-30710122993a", "query": "在表格-108849中，当“肇事者”这一列的值为“穆罕默德·扎曼，30 岁”时，“日期”这一列的值是多少？", "answer": "09.25 Sep. 25", "response_gpt4-turbo-128k": "2009-09-25"}
+{"id": "997dc2c6-e879-46d2-b29b-4c54ed30e7d4", "query": "在表格-126789中，当“比赛”这一列的值为“大师赛”时，“切割完成”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "0"}
+{"id": "ae65253c-e12c-498d-b0c2-21c7c65ef417", "query": "在表格-124057中，当“日期”这一列的值为“2010 年 10 月 10 日”时，“得分”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "4–0"}
+{"id": "98f384b3-6204-4950-93f3-2699a132e897", "query": "在表格-126787中，当“主队”这一列的值为“吉朗”时，“主队比分”这一列的值是多少？", "answer": "25.10 (160)", "response_gpt4-turbo-128k": "25.10 (160)"}
+{"id": "6ecfe54c-5317-47ff-9475-b0e782cc83af", "query": "在表格-196568中，当“年”这一列的值为“1988年”时，“表现”这一列的值是多少？", "answer": "Long jump", "response_gpt4-turbo-128k": "Long jump"}
+{"id": "bc6a3943-aab3-4d46-993a-0df575bc2791", "query": "在表格-191308中，当“地方”这一列的值为“3”时，“玩家”这一列的值是多少？", "answer": "Bob Tway", "response_gpt4-turbo-128k": "Luca Toni"}
+{"id": "ea8a941b-b315-43d6-9f0c-a72bd3a71ce2", "query": "在表格-132347中，当“姓名”这一列的值为“冈谷JCT”时，“速度极限”这一列的值是多少？", "answer": "70km/h", "response_gpt4-turbo-128k": "80km/h"}
+{"id": "104f48ce-8d6f-4c90-bd6d-edac0b81a1a7", "query": "在表格-132429中，当“游戏”这一列的值为“6”时，“对手”这一列的值是多少？", "answer": 52, "response_gpt4-turbo-128k": "New York"}
+{"id": "b88ae1b9-9cb9-4328-b17b-c5a0bde15ff8", "query": "在表格-165620中，当“俱乐部”这一列的值为“沃灵顿狼队”时，“画”这一列的值是多少？", "answer": "0", "response_gpt4-turbo-128k": "0"}
+{"id": "c0e10f6e-2aa9-4086-9c82-306c36a9e7fb", "query": "在表格-185789中，当“游戏”这一列的值为“20”时，“团队”这一列的值是多少？", "answer": "@ Indiana", "response_gpt4-turbo-128k": "Washington Wizards"}
+{"id": "e55de3cf-9287-4b39-982a-b39a564a333f", "query": "在表格-182160中，当“季节号”这一列的值为“4”时，“加拿大播出日期”这一列的值是多少？", "answer": "2 November 2008", "response_gpt4-turbo-128k": "5 April 2009"}
+{"id": "5ad107dc-7b8c-4a25-91d4-42b6b8baf41d", "query": "在表格-196438中，当“系列号”这一列的值为“111”时，“标题”这一列的值是多少？", "answer": "\"Family Matters\"", "response_gpt4-turbo-128k": "\"We've Come This Far by Faith: Part 1\""}
+{"id": "03af2c39-eed1-4b46-9e50-7a936ae8f1f0", "query": "在表格-199174中，当“队号”这一列的值为“20”时，“应用程序总数”这一列的值是多少？", "answer": "8 (13)", "response_gpt4-turbo-128k": "UNKNOW_ERROR"}
+{"id": "6c77dfdd-6b14-4270-a042-979f242a5a14", "query": "在表格-179583中，当“年”这一列的值为“1981年”时，“机壳”这一列的值是多少？", "answer": "Ferrari 126CK", "response_gpt4-turbo-128k": "A2"}
+{"id": "8b75f846-996f-4deb-9fe8-fe4fb328b6c1", "query": "在表格-142795中，当“语言”这一列的值为“音乐可扩展标记语言 (MusicXML)”时，“观众”这一列的值是多少？", "answer": "Scorewriter", "response_gpt4-turbo-128k": "Scorewriter"}
+{"id": "360be124-55c2-499a-8437-1300e254feef", "query": "在表格-184408中，当“不。”这一列的值为“29”时，“导演”这一列的值是多少？", "answer": "David Winning", "response_gpt4-turbo-128k": "Jean de Segonzac"}
+{"id": "3d673aad-1bf8-4b18-a0ea-e5801c4907f7", "query": "在表格-116555中，当“司机”这一列的值为“佩德罗·迪尼兹”时，“圈数”这一列的值是多少？", "answer": "44", "response_gpt4-turbo-128k": "68"}
+{"id": "d809bfb4-dcd8-47b7-93d8-ee8bba3dbea2", "query": "在表格-182716中，当“双打”这一列的值为“51”时，“玩家”这一列的值是多少？", "answer": "Napoleon Lajoie", "response_gpt4-turbo-128k": "Murray Carter, Ed Lamont, Damon Beck"}
+{"id": "6a91d1a1-a403-4189-8c22-281e87f4fab4", "query": "在表格-106889中，当“比赛”这一列的值为“总计”时，“前10名”这一列的值是多少？", "answer": "10", "response_gpt4-turbo-128k": "10"}
+{"id": "d9dbecf8-26f1-44fb-8d3c-ebc300acb201", "query": "在表格-142391中，当“城市/直辖市”这一列的值为“阿帕利特”时，“人口（2010年）”这一列的值是多少？", "answer": 101537, "response_gpt4-turbo-128k": "101537"}
+{"id": "1f64d8c5-130f-4832-b1f3-fd79a37b9155", "query": "在表格-144366中，当“司机”这一列的值为“吉安卡洛·费斯切拉”时，“网格”这一列的值是多少？", "answer": "19", "response_gpt4-turbo-128k": "19"}
+{"id": "2e83e61b-f685-4e3e-9e86-6459e3c3d5e7", "query": "在表格-192096中，当“年”这一列的值为“1990年”时，“女子单打”这一列的值是多少？", "answer": "Veronika Vopalenska", "response_gpt4-turbo-128k": "Li Jiawei"}
+{"id": "294bf04e-a843-40f3-aa9b-e4c272627a7f", "query": "在表格-124233中，当“系列号”这一列的值为“15”时，“季节号”这一列的值是多少？", "answer": 3, "response_gpt4-turbo-128k": "5"}
+{"id": "abbc0ea4-c88f-491f-a2ed-d836e445f7fd", "query": "在表格-172883中，当“版”这一列的值为“2002年联合会杯欧洲/非洲第一组”时，“表面”这一列的值是多少？", "answer": "Clay", "response_gpt4-turbo-128k": "Hard"}
+{"id": "b1b425fd-704f-4aaa-99de-606029c07e17", "query": "在表格-186266中，当“地方”这一列的值为“3”时，“骑士”这一列的值是多少？", "answer": "Hans Luthringhauser /H.Cusnik", "response_gpt4-turbo-128k": "Horst Owesle/J.Kremer"}
+{"id": "95247bb1-b08e-4f50-b297-d510806b713a", "query": "在表格-112977中，当“秩”这一列的值为“3”时，“收益($)”这一列的值是多少？", "answer": "3,973,978", "response_gpt4-turbo-128k": "3,973,978"}
+{"id": "e4e559e5-7736-4d51-8636-222e2d441015", "query": "在表格-135310中，当“秩”这一列的值为“5”时，“全部的”这一列的值是多少？", "answer": "6", "response_gpt4-turbo-128k": "12"}
+{"id": "afdba325-3d64-4109-8383-0cafcaaf789b", "query": "在表格-179291中，当“画”这一列的值为“11”时，“艺术家”这一列的值是多少？", "answer": "Dustin the Turkey", "response_gpt4-turbo-128k": "Guzzone"}
+{"id": "ab09018e-e60d-4bf5-a485-c9ea8f7553cd", "query": "在表格-136961中，当“地方”这一列的值为“7”时，“达到标准杆”这一列的值是多少？", "answer": "+2", "response_gpt4-turbo-128k": "−1"}
+{"id": "5fadcba1-6317-4ce7-999c-4d329fbc72fe", "query": "在表格-116563中，当“年”这一列的值为“1995年”时，“积分”这一列的值是多少？", "answer": "102", "response_gpt4-turbo-128k": "52"}
+{"id": "836cf53c-54dc-41ea-b634-42087a752a02", "query": "在表格-121641中，当“主队”这一列的值为“南墨尔本”时，“主队比分”这一列的值是多少？", "answer": "10.11 (71)", "response_gpt4-turbo-128k": "10.12 (72)"}
+{"id": "2e03867c-378e-43f9-8713-1d11bfc7b725", "query": "在表格-186661中，当“姓名”这一列的值为“克里斯·哈钦斯”时，“足总杯应用程序”这一列的值是多少？", "answer": "4", "response_gpt4-turbo-128k": "4"}
+{"id": "c73378cf-498c-42d0-85da-72613899b6aa", "query": "在表格-149688中，当“年”这一列的值为“2005/06”时，“第一名”这一列的值是多少？", "answer": "St.George's", "response_gpt4-turbo-128k": "St.George's"}
+{"id": "afa88d5f-a28b-4bdf-90e4-1b87d763d093", "query": "在表格-174559中，当“数”这一列的值为“987”时，“国家”这一列的值是多少？", "answer": "Italy", "response_gpt4-turbo-128k": "Italy"}
+{"id": "c3671e91-4316-44ab-b518-8e13cda16c0c", "query": "在表格-169349中，当“秩”这一列的值为“15”时，“银”这一列的值是多少？", "answer": "1", "response_gpt4-turbo-128k": "0"}
+{"id": "708ab27c-ac73-49e5-895f-cafebc699975", "query": "在表格-118333中，当“日期”这一列的值为“2010 年 11 月 26 日”时，“竞赛”这一列的值是多少？", "answer": "Friendly", "response_gpt4-turbo-128k": "2006 Merdeka Tournament"}
+{"id": "2e1cfc64-199c-4987-b519-0c8a6ab1aaf6", "query": "在表格-155188中，当“参议员”这一列的值为“约翰·N·利多姆”时，“家乡”这一列的值是多少？", "answer": "Dallas", "response_gpt4-turbo-128k": "Syracuse, NY"}
+{"id": "fe5354c3-6f51-4773-948b-c76d4ce91947", "query": "在表格-101788中，当“季节”这一列的值为“2004–05”时，“第二”这一列的值是多少？", "answer": "Chris Haichert", "response_gpt4-turbo-128k": "“第二”这一列的值是“Sassi Darling”。"}
+{"id": "f1f79800-524e-4af4-9e02-ca9e9adf7f6e", "query": "在表格-165841中，当“热火排名”这一列的值为“7”时，“国家”这一列的值是多少？", "answer": "New Zealand", "response_gpt4-turbo-128k": "New Zealand"}
+{"id": "accdd794-a750-48e3-82ff-6553bb31544d", "query": "在表格-130333中，当“星期”这一列的值为“9”时，“日期”这一列的值是多少？", "answer": "November 22, 1959", "response_gpt4-turbo-128k": "2010 年 12 月 10 日"}
+{"id": "f36d0695-76a4-4530-a24a-cdc64cbebc91", "query": "在表格-132370中，当“游戏”这一列的值为“36”时，“地点考勤”这一列的值是多少？", "answer": "Omni Coliseum 16,378", "response_gpt4-turbo-128k": "15,205"}
+{"id": "ab7cf501-0c31-4458-81eb-34bb7a14425f", "query": "在表格-133064中，当“剧集编号”这一列的值为“1”时，“电缆等级”这一列的值是多少？", "answer": "9", "response_gpt4-turbo-128k": "5"}
+{"id": "66db9aa7-5174-4a07-94de-b5592b2ffdf4", "query": "在表格-127529中，当“区”这一列的值为“康涅狄格州第三”时，“瓦卡托”这一列的值是多少？", "answer": "Henry H. Starkweather (R)", "response_gpt4-turbo-128k": "Henry H. Starkweather (R)"}
+{"id": "88c0e604-e8da-40f7-935a-14295e71783c", "query": "在表格-105742中，当“玩家”这一列的值为“本·凯”时，“帽子”这一列的值是多少？", "answer": "45", "response_gpt4-turbo-128k": "45"}
+{"id": "05860c84-7b36-4625-9537-0150f593f1e3", "query": "在表格-124928中，当“位置”这一列的值为“4”时，“1990–1991”这一列的值是多少？", "answer": "Dan Obremski", "response_gpt4-turbo-128k": "72.48"}
+{"id": "e03d89c7-5463-477a-b69c-0d55b0fc5d21", "query": "在表格-177609中，当“位置”这一列的值为“9”时，“不同之处”这一列的值是多少？", "answer": "- 34", "response_gpt4-turbo-128k": "-16"}
+{"id": "6f72439c-41cf-4877-8409-4c26aaf8d307", "query": "在表格-134608中，当“国家”这一列的值为“北爱尔兰”时，“1952年”这一列的值是多少？", "answer": "0.22", "response_gpt4-turbo-128k": "0.22"}
+{"id": "862462f0-5818-4a24-9702-e76db466d982", "query": "在表格-113951中，当“日期”这一列的值为“10 月 13 日”时，“对手”这一列的值是多少？", "answer": "Morocco", "response_gpt4-turbo-128k": "Morocco"}

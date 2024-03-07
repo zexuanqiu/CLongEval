@@ -1,0 +1,9 @@
+{
+	"long_story_qa": "./data/1-1_long_story_qa",
+	"long_conversation_memory": "./data/1-2_long_conversation_memory",
+	"long_story_summarization": "./data/2-1_long_story_summarization",
+	"stacked_news_labeling": "./data/3-1_stacked_news_labeling",
+	"stacked_typo_detection": "./data/3-2_stacked_typo_detection",
+	"key_passage_retrieval": "./data/4-1_key_passage_retrieval",
+	"table_querying": "./data/4-2_table_querying"
+}

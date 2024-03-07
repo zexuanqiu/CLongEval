@@ -1,0 +1,9 @@
+{
+	"long_story_qa": "100",
+	"long_conversation_memory": "100",
+	"long_story_summarization": "400",
+	"stacked_news_labeling": "800",
+	"stacked_typo_detection": "800",
+	"key_passage_retrieval": "400",
+	"table_querying": "50"
+}

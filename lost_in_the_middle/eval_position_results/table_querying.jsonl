@@ -1,0 +1,6 @@
+{"pos_1": 15.32, "pos_2": 11.54, "pos_3": 4.95, "pos_4": 8.42, "pos_5": 13.59, "pos_6": 17.65, "model_name": "internlm2-7b-200k", "interval_number": 6, "min_len": 10000, "max_len": 60000}
+{"pos_1": 7.21, "pos_2": 2.88, "pos_3": 9.9, "pos_4": 8.42, "pos_5": 8.74, "pos_6": 22.06, "model_name": "internlm2-20b-200k", "interval_number": 6, "min_len": 10000, "max_len": 60000}
+{"pos_1": 3.6, "pos_2": 5.77, "pos_3": 6.93, "pos_4": 8.42, "pos_5": 6.8, "pos_6": 7.35, "model_name": "chinese-llama2-7b-64k", "interval_number": 6, "min_len": 10000, "max_len": 60000}
+{"pos_1": 6.31, "pos_2": 6.73, "pos_3": 4.95, "pos_4": 6.32, "pos_5": 7.77, "pos_6": 5.88, "model_name": "chinese-alpaca2-7b-64k", "interval_number": 6, "min_len": 10000, "max_len": 60000}
+{"pos_1": 65.77, "pos_2": 63.46, "pos_3": 64.36, "pos_4": 71.58, "pos_5": 70.87, "pos_6": 69.12, "model_name": "moonshot-v1", "interval_number": 6, "min_len": 10000, "max_len": 60000}
+{"pos_1": 90.09, "pos_2": 74.0, "pos_3": 65.0, "pos_4": 64.84, "pos_5": 67.96, "pos_6": 64.71, "model_name": "gpt4-turbo-128k", "interval_number": 6, "min_len": 10000, "max_len": 60000}

@@ -1,0 +1,6 @@
+transformers==4.36.2
+torch==2.1.2+cu118
+vllm==0.2.4+cu118
+lmdeploy==0.2.1
+zhipuai==2.0.1
+openai==1.11.1
