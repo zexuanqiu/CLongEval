@@ -19,7 +19,6 @@ def load_dataset(dataset_path):
     return data_all
 
 
-# TODO:跑一下->跑了，没啥问题
 def get_pred_vllm(data, task_prompt, model_name, model_path, tp_size, gpu_memory_utilization, max_tokens, save_res_path):
     from vllm import LLM, SamplingParams
     sampling_params = SamplingParams(temperature=0.01,max_tokens=max_tokens, stop=["<|im_end|>", "<|endoftext|>", "<|im_start|>, </s>"])
@@ -39,7 +38,7 @@ def get_pred_vllm(data, task_prompt, model_name, model_path, tp_size, gpu_memory
                 input_to_model = task_prompt.format(cur_sample['context'])
             else: # 1-1, 1-2, 1-3, 1-4
                 input_to_model = task_prompt.format(cur_sample['context'], cur_sample['query'])
-            # TODO，Truncation在这里是该True还是False
+                
             output = model.generate(input_to_model, sampling_params)[0]
             context_len = len(output.prompt_token_ids)
             cur_response = output.outputs[0].text
@@ -279,7 +278,6 @@ def seed_everything(seed):
     torch.backends.cudnn.deterministic = True
     torch.cuda.manual_seed_all(seed)
 
-# TODO:看看是否要加GPT4的推理代码->加了
 def parse_args(args=None):
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type=str, default=None, choices=['chatglm3-6b-32k', 'qwen-7b-32k', 'chinese-llama2-7b-64k', 'chinese-alpaca2-7b-64k', 'internlm2-7b-200k', 'internlm2-20b-200k', "moonshot-v1", "glm4-128k", "gpt4-turbo-128k"])

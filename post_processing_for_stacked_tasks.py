@@ -44,7 +44,7 @@ def typo_detection_pattern_match(pred_answer:str):
     pattern6 = r"(\d+)[，,](\w+)[，,](\w+)"
     patterns = [pattern1, pattern2, pattern3, pattern4, pattern5, pattern6]
     for cur_typo in typo_list:
-        left_parenthesis = cur_typo.find("（") # case1     段落ID：0，齥，饿
+        left_parenthesis = cur_typo.find("（") 
         if left_parenthesis != -1:
             cur_typo = cur_typo[:left_parenthesis]
         for pattern in patterns:
@@ -56,7 +56,6 @@ def typo_detection_pattern_match(pred_answer:str):
                 # print("，".join([id_number, wrong_word, correct_word]))
                 res_list.append("，".join([id_number, wrong_word, correct_word]))
                 break
-
 
     typo_line_list = pred_answer.split("\n\n")
     if len(typo_line_list) == 1: 
